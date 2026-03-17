@@ -51,11 +51,16 @@ page_class: research-page
   </li>
   <li>
     <div class="research-entry">
+      <p class="research-entry__title">"Intergroup Boundaries Among Majority and Minority Groups."</p>
+      <p class="research-entry__meta"><strong> with Christian Czymara and Irena Kogan </strong></p>
+    </div>
+  </li>
+  <li>
+    <div class="research-entry">
       <p class="research-entry__title">"Alleging Electoral Fraud in Advanced Democracies: When Do Losers Defy Electoral Outcomes?"</p>
       <p class="research-entry__meta"> <strong> with Jonghoon Lee </strong></p>
       <p class="research-entry__abstract"><strong>Abstract.</strong> This paper investigates the conditions under which losing parties in advanced democracies allege electoral fraud instead of conceding defeat. Drawing on recent incidents in the U.S. and South Korea, we revisit Przeworski's foundational question: why do electoral losers sometimes defy the rules of the game? We propose a formal model grounded in rational choice theory, where losers weigh the costs of challenging results against the probability of reversing the outcome, the policy distance between parties, and perceived election integrity. Using an original dataset of fraud allegations across OECD democracies, we explore how polarization, populism, and erosion of trust in institutions influence this decision. Our findings contribute to the literatures on democratic backsliding, electoral manipulation, and the development-democracy nexus, emphasizing the destabilizing effect of fraud allegations on democratic sustainability even in established democracies.</p>
       <p class="research-entry__presented"><strong>Will be Presented at</strong> MPSA 2026 (Chicago); APSA 2026 (Boston).</p>
-
     </div>
   </li>
 </ol>
