@@ -134,6 +134,11 @@
   color: var(--global-text-color);
 }
 
+.research-page .research-entry__abstract,
+.research-page .research-entry__presented {
+  text-align: left;
+}
+
 .dissertation-page .page__inner-wrap {
   max-width: 54rem;
   margin-right: auto;
