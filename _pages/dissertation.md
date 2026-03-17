@@ -23,31 +23,45 @@ Bringing together comparative political behavior and political psychology, the d
 
 ## Research Questions
 
-* When does contact with natives foster immigrants' political integration?
-* How does the quality of interpersonal interaction matter, beyond whether contact simply occurs?
-* How do anti-immigrant contexts condition immigrants' political attitudes, behavior, and attachment to the host society?
+**How do intergroup relations with native-born populations shape immigrants’ political integration in host societies?**
 
-## Dissertation Chapters
+To answer this question, the dissertation examines:
+
+- When does contact with natives foster immigrants’ political integration?
+- How does the quality of interpersonal interaction shape immigrants’ sense of belonging, trust, and political efficacy?
+- Under what conditions does contact fail to translate into political integration?
+- How do hostile or exclusionary contexts condition the political consequences of intergroup contact?
 
 ### When Contact Matters
 
 This chapter studies how the quality of interpersonal interaction influences immigrant political integration. Rather than focusing only on the presence of contact, it considers whether positive, meaningful, and trust-building interactions shape belonging and political incorporation differently.
 
+<div style="margin: 1.5rem 0;">
+  <img src="/images/dissertation/attimm_kkz.png" alt="Short description" style="max-width: 420px; width: 100%;">
+  <p><em>Photo caption here.</em></p>
+</div>
+
+
+
 ### Qualitative Fieldwork in Belgium and Germany
 
 The qualitative component of the dissertation explores how first-generation immigrants describe their social relationships, political experiences, and sense of place in the host society. These interviews provide context for the survey and experimental findings and help identify the mechanisms through which intergroup relations matter.
+
+
+
 
 ### Included but Not Integrated?
 
 This dissertation paper examines whether contact with natives contributes to immigrants' political integration. It asks whether immigrants can be socially included in everyday life while still remaining politically distant from the host society.
 
 
+
 ## Recent Presentations
 * Political Identities in Europe, University of Amsterdam 2025
-* American Political Studies Association (APSA) 2025
+* American Political Science Association (APSA) 2025
 * APSA Dissertation Workshop (European Politics, Citizenship & Migration) 2025
 * MZES Mittelbau Kollquium 2025
-* Midwest Political Studies Association (MPSA) 2025
+* Midwest Political Science Association (MPSA) 2025
 * McGill Political Behavior Workshop 2024
 * Initiative de Recherche sur l’Immigration (IRI) Seminar 2024
 
