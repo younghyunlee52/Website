@@ -108,7 +108,8 @@
 .research-page .research-entry__citation,
 .research-page .research-entry__title,
 .research-page .research-entry__meta,
-.research-page .research-entry__abstract {
+.research-page .research-entry__abstract,
+.research-page .research-entry__presented {
   margin: 0;
 }
 
@@ -125,6 +126,12 @@
 
 .research-page .research-entry__abstract {
   margin-top: 0.55rem;
+}
+
+.research-page .research-entry__presented {
+  margin-top: 0.45rem;
+  font-size: 0.9em;
+  color: var(--global-text-color-light);
 }
 
 .updates-page .page__inner-wrap {
