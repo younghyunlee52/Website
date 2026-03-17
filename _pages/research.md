@@ -56,4 +56,4 @@ page_class: research-page
   </li>
 </ol>
 
-<em> Papers are available upon request. <em>
+*Papers are available upon request.*
