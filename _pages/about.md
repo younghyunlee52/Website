@@ -28,5 +28,3 @@ Asia Institute and completed a traineeship at the
 [European Parliamentary Research Service](https://epthinktank.eu/). I hold an
 M.A. in Political Science and a B.A. in French Literature and International
 Studies, both from [Korea University](https://www.korea.edu/sites/en/index.do).
-
-You can reach me at [yl78@illinois.edu](mailto:yl78@illinois.edu).
