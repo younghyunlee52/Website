@@ -101,6 +101,10 @@
   margin-bottom: 1rem;
 }
 
+.research-page .research-working-papers p {
+  text-align: left !important;
+}
+
 .research-page .research-entry {
   margin: 1rem 0 1.75rem;
 }
@@ -134,10 +138,6 @@
   color: var(--global-text-color);
 }
 
-.research-page .research-entry__abstract,
-.research-page .research-entry__presented {
-  text-align: left;
-}
 
 .dissertation-page .page__inner-wrap {
   max-width: 54rem;
