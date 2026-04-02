@@ -64,6 +64,11 @@
   text-justify: inter-word;
 }
 
+.page .page__content p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 .research-page .page__content > h2 {
   margin-top: 2.75rem;
   margin-bottom: 1rem;
@@ -77,10 +82,6 @@
 .research-page .page__content > ul,
 .research-page .page__content > p {
   margin-bottom: 1.5rem;
-}
-
-.research-page .page__content > p {
-  text-align: left;
 }
 
 .research-page .research-publications {
@@ -102,7 +103,8 @@
 }
 
 .research-page .research-working-papers p {
-  text-align: left !important;
+  text-align: justify !important;
+  text-justify: inter-word;
 }
 
 .research-page .research-entry {
@@ -202,7 +204,8 @@
 .updates-page .page__content li,
 .update-entry__content p,
 .update-entry__content li {
-  text-align: left;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .updates-page__year {
