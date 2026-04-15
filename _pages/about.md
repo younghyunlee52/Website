@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. candidate in the Department of Political Science at the
-University of Illinois, Urbana-Champaign. I will be <span class="job-market-note">on
-the job market in the 2026-2027 academic year</span>.
+Welcome!
+
+I am a Ph.D. candidate in the Department of Political Science at the University
+of Illinois, Urbana-Champaign. I will be <span class="job-market-note">on the
+job market in the 2026-2027 academic year</span>.
 
 My research focuses on the political behaviors and attitudes of immigrants and
 minorities in developed democracies, situating my work at the intersection of
