@@ -336,6 +336,15 @@
     margin-top: 0.2rem;
   }
 
+  .author__affiliation-link {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    color: inherit;
+    font-size: inherit;
+    line-height: inherit;
+  }
+
   a {
     display: flex;
     align-items: flex-start;
