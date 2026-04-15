@@ -14,7 +14,7 @@ page_class: research-page
 * Identity Politics, Immigrant Integration, Intergroup Relations, Europe
 * Survey Research, Causal Inference, Experiment, Text-as-Data, Computational Social Science, Interview
 
-## Peer-Reviewed Publications
+## Peer-Reviewed Articles
 
 <ol class="research-publications">
   <li>Seyoung Jung, <strong>Younghyun Lee</strong>, and Cara Wong. 2025. "What Can Dual Citizens Teach Us about Political Engagement?" <em>Political Science Research and Methods</em>. <a href="https://doi.org/10.1017/psrm.2025.10053">link</a></li>
@@ -64,7 +64,7 @@ page_class: research-page
     <div class="research-entry">
       <p class="research-entry__title">"Alleging Electoral Fraud in Advanced Democracies: When Do Losers Defy Electoral Outcomes?"</p>
       <p class="research-entry__meta"> <strong> with Jonghoon Lee </strong></p>
-      <p class="research-entry__abstract"><strong>Abstract.</strong> This paper investigates the conditions under which losing parties in advanced democracies allege electoral fraud instead of conceding defeat. Drawing on recent incidents in the U.S. and South Korea, we revisit Przeworski's foundational question: why do electoral losers sometimes defy the rules of the game? We propose a formal model grounded in rational choice theory, where losers weigh the costs of challenging results against the probability of reversing the outcome, the policy distance between parties, and perceived election integrity. Using an original dataset of fraud allegations across OECD democracies, we explore how polarization, populism, and erosion of trust in institutions influence this decision. Our findings contribute to the literatures on democratic backsliding, electoral manipulation, and the development-democracy nexus, emphasizing the destabilizing effect of fraud allegations on democratic sustainability even in established democracies.</p>
+      <p class="research-entry__abstract"><strong>Abstract.</strong> Democratic stability rests on losers' consent, in which losing candidates concede defeat and accept election results. In advanced democracies, outright refusals to accept electoral loss have been rare. However, recent high-profile cases have seen defeated candidates allege electoral fraud instead of a clean concession. These claims, often unsubstantiated, pose risks to public trust and democratic legitimacy. Why would politicians in established democracies resort to such tactics? Existing explanations point to factors like polarization, populist anti-elite rhetoric, or shock from unexpected defeat. This research expands the theoretical framework by focusing on intraparty politics as a key driver. Candidates with precarious standing inside their own party may have strong personal incentives to cry fraud after a loss, in order to shift blame, mobilize loyal supporters, and protect their political futures. We outline this extended theory with illustrative examples, propose empirical strategies to test it using a cross-national dataset and comparative case studies, and assess implications for democratic resilience. The project contributes to the study of electoral legitimacy, party politics, and strategic misinformation in democracies under pressure.</p>
       <p class="research-entry__presented"><strong>Will be Presented at</strong> MPSA 2026 (Chicago); APSA 2026 (Boston).</p>
     </div>
   </li>
