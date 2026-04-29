@@ -3,7 +3,7 @@ title: "2026 MPSA Annual Meeting"
 date: 2026-04-23
 display_date: "April 23-26, 2026"
 location: "Chicago, USA"
-image: /images/updates/20260423.png
+image: /images/updates/20260423.jpg
 image_alt:
 caption:
 ---
