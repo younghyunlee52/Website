@@ -8,6 +8,6 @@ image_alt:
 caption:
 ---
 
-I participated the Politics of Race, Immigration & Ethnicity Consortium Conference (PRIEC) that took place at University of North Texas. I presented my work *"Well Integrated Immigrants Without a Sense of Belonging? Revisiting Integration Paradox or Successful Integration in Europe"*. PRIEC is a supportive and awesome community that provides great opportunities for constructive feedback from scholars studying race, immigration, and ethnicity.
+I participated in the Politics of Race, Immigration & Ethnicity Consortium Conference (PRIEC), which took place at the University of California, Santa Barbara. I presented my dissertation project, *Not All Contact Is Equal: Interaction with Natives and Immigrant Political Integration in Hostile Contexts*. I appreciate all the feedback from the audience and especially thank Cynthia S. Kaplan, who served as the moderator and chair for our panel.
 
-More information about the conference can be found [here](https://priec.org/).
+More information about the conference can be found [here](https://docs.google.com/document/d/18oWjYuDbNrRTtvjPycLd9eEhqtDb4Qn-/edit).
