@@ -17,15 +17,15 @@ page_class: research-page
 ## Peer-Reviewed Articles
 
 <ol class="research-publications">
-  <li>Seyoung Jung, <strong>Younghyun Lee</strong>, and Cara Wong. 2025. "What Can Dual Citizens Teach Us about Political Engagement?" <em>Political Science Research and Methods</em>. <a class="pub-link" href="https://doi.org/10.1017/psrm.2025.10053">DOI</a></li>
-  <li><strong>Younghyun Lee</strong> and Sanghoon Kim-Leffingwell. 2025. "Engaged but targeted? How immigrants vote against anti-immigrant agendas in Europe." <em>Journal of Ethnic and Migration Studies</em>. <a class="pub-link" href="https://doi.org/10.1080/1369183X.2025.2589904">DOI</a></li>
-  <li><strong>Younghyun Lee</strong> and Nam-Kook Kim. 2019. "Divergent Paths of Integration in the Post-Multicultural Era: Interculturalism in Spain and Civic Integration in France." <em>Journal of European Union Studies</em> 53: 3-48. <a class="pub-link" href="https://doi.org/10.18109/jeus.2019..53.3">DOI</a></li>
+  <li>Seyoung Jung, <strong>Younghyun Lee</strong>, and Cara Wong. 2025. "What Can Dual Citizens Teach Us about Political Engagement?" <em>Political Science Research and Methods</em>. <a class="pub-link" href="https://doi.org/10.1017/psrm.2025.10053" target="_blank" rel="noopener noreferrer">DOI</a></li>
+  <li><strong>Younghyun Lee</strong> and Sanghoon Kim-Leffingwell. 2025. "Engaged but targeted? How immigrants vote against anti-immigrant agendas in Europe." <em>Journal of Ethnic and Migration Studies</em>. <a class="pub-link" href="https://doi.org/10.1080/1369183X.2025.2589904" target="_blank" rel="noopener noreferrer">DOI</a></li>
+  <li><strong>Younghyun Lee</strong> and Nam-Kook Kim. 2019. "Divergent Paths of Integration in the Post-Multicultural Era: Interculturalism in Spain and Civic Integration in France." <em>Journal of European Union Studies</em> 53: 3-48. <a class="pub-link" href="https://doi.org/10.18109/jeus.2019..53.3" target="_blank" rel="noopener noreferrer">DOI</a></li>
 </ol>
 
 ## Book Chapters
 
 <ol class="research-publications">
-  <li><strong>Younghyun Lee</strong>, Florencia Pineyrua, Christian Czymara, and Max Weber. 2026. "Linguistic Polarization in Minority Representation: Analyzing Parliamentary Speeches in Germany and the UK (1980-2021)." In <em>Computational Social Science of Social Cohesion and Polarization</em>. <a class="pub-link" href="https://doi.org/10.1007/978-3-032-01373-6_7">DOI</a></li>
+  <li><strong>Younghyun Lee</strong>, Florencia Pineyrua, Christian Czymara, and Max Weber. 2026. "Linguistic Polarization in Minority Representation: Analyzing Parliamentary Speeches in Germany and the UK (1980-2021)." In <em>Computational Social Science of Social Cohesion and Polarization</em>. <a class="pub-link" href="https://doi.org/10.1007/978-3-032-01373-6_7" target="_blank" rel="noopener noreferrer">DOI</a></li>
 </ol>
 
 ## Working Papers
