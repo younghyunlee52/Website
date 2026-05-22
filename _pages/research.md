@@ -33,6 +33,11 @@ page_class: research-page
 <ol class="research-working-papers">
   <li>
     <div class="research-entry">
+      <p class="research-entry__title">"Not All Contact Is Equal: Interaction with Natives and Immigrant Political Integration in Hostile Contexts" <strong>[Job Market Paper]</strong></p>
+    </div>
+  </li>
+  <li>
+    <div class="research-entry">
       <p class="research-entry__title">"Cross-Ethnic Engagement and Political Integration of First-Generation Immigrants in Quebec."</p>
       <p class="research-entry__meta"><strong> with Antoine Bilodeau </strong></p>
       <p class="research-entry__abstract"><strong>Abstract.</strong> Using a survey conducted in 2019, this paper analyzes immigrants in the province of Quebec and shows that engaging in political activities with non-co-ethnic individuals fosters immigrant political integration by exposing immigrants to diverse perspectives, promoting a broader civic identity, and enhancing feelings of belonging and trust in the host society.</p>
