@@ -8,6 +8,14 @@ page_class: research-page
 ---
 
 
+## Research Agenda
+
+I focus on how intergroup relations and political context shape the attitudes and behaviors of immigrants and other minority groups. My research is organized around three questions:
+
+1. How do immigrants' interactions with other groups in the host society shape their political attitudes and behavior?
+2. How do immigrants politically respond to hostile or exclusionary contexts in the host society?
+3. How does political discourse construct the legitimacy of groups within the political community?
+
 ## Research Interests
 
 * Comparative Politics, Political Psychology, Political Behavior
