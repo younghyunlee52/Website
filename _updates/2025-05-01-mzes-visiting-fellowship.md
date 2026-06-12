@@ -5,7 +5,7 @@ display_date: "May, 2025"
 location: "Mannheim, Germany"
 image: /images/updates/20250501.jpg
 image_alt: "Younghyun Lee at MZES in Mannheim"
-caption: "Lunch from the Mensa. April to May is white asparagus season in Germany (and Belgium too)."
+
 ---
 In May, I was a visiting fellow at the [Mannheim Centre for European Social Research](https://www.mzes.uni-mannheim.de/d7/en) (MZES) in Mannheim, Germany for a month. MZES is home to outstanding faculty and students working in political science, computational social science, and migration studies, and I had the opportunity to engage with several inspiring scholars during my stay.
 
