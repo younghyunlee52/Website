@@ -67,6 +67,13 @@ I focus on how intergroup relations and political context shape the attitudes an
       <p class="research-entry__presented"><strong>Presented at</strong> MPSA 2022 (Chicago); WISE 2022 (Saint Louis); PRIEC 2023 (Texas).</p>
     </div>
   </li>
+
+</ol>
+
+## Work in Progress
+
+<ol class="research-working-papers">
+
   <li>
     <div class="research-entry">
       <p class="research-entry__title">"Intergroup Boundaries Among Majority and Minority Groups."</p>
