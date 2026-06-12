@@ -12,9 +12,9 @@ page_class: research-page
 
 I focus on how intergroup relations and political context shape the attitudes and behaviors of immigrants and other minority groups. My research is organized around three questions:
 
-1. How do immigrants' interactions with other groups in the host society shape their political attitudes and behavior?
-2. How do immigrants politically respond to hostile or exclusionary contexts in the host society?
-3. How does political discourse construct the legitimacy of groups within the political community?
+1. How do **intergroup relations and boundary making** influence immigrants' political attitudes and behaviors in host societies?
+2. How do **immigrants engage** with democratic politics and respond to political opportunities and constraints?
+3. How do **political context, party competition, and social discourses** construct the legitimacy of groups within the political community?
 
 ## Research Interests
 
