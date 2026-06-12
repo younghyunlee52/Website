@@ -3,7 +3,7 @@ title: "MZES Visiting Fellowship for PhD Students"
 date: 2025-05-01
 display_date: "May, 2025"
 location: "Mannheim, Germany"
-image: /images/updates/20250501.png
+image: /images/updates/20250501.jpg
 image_alt: "Younghyun Lee at MZES in Mannheim"
 caption: "Lunch from the Mensa. April to May is white asparagus season in Germany (and Belgium too)."
 ---
