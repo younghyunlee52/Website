@@ -10,31 +10,17 @@ page_class: dissertation-page
 <div class="dissertation-hero">
   <p class="dissertation-hero__kicker">Dissertation Project</p>
   <h1 class="dissertation-hero__title">Beyond Contact: How Intergroup Relations with Natives Shape Immigrant Political Integration</h1>
-  <p class="dissertation-hero__subtitle">This project examines how interactions between immigrants and natives shape political belonging, trust, and efficacy in settings marked by anti-immigrant sentiment, with a particular focus on Belgium and Germany.</p>
 </div>
 
-<div class="dissertation-meta">
-  <div class="dissertation-meta__item">
-    <span class="dissertation-meta__label">Substantive focus</span>
-    <p>Immigrant political integration, intergroup relations, and hostile political contexts in Western Europe.</p>
-  </div>
-  <div class="dissertation-meta__item">
-    <span class="dissertation-meta__label">Research design</span>
-    <p>Mixed methods combining survey analysis, qualitative interviews, and an original experiment.</p>
-  </div>
-  <div class="dissertation-meta__item">
-    <span class="dissertation-meta__label">Empirical settings</span>
-    <p>Belgium and Germany, with comparative leverage on everyday contact and macro-level hostility.</p>
-  </div>
-</div>
+<p class="dissertation-intro">A book-style dissertation on how interactions with native-born citizens shape immigrant political integration under conditions of anti-immigrant hostility in Belgium and Germany.</p>
 
 ## Project Overview
 
-This dissertation asks why some immigrants become politically integrated into host societies while others do not. Moving beyond approaches that focus mainly on immigrants' individual characteristics, the project develops a relational perspective that centers immigrants' everyday interactions with native-born populations.
+Across Western democracies, immigrants are being asked to belong to political communities that are, at the same time, growing more hostile to them. Whether immigrants come to see themselves as full members of the political community, or are instead pushed to its margins, has consequences not only for social cohesion but also for the long-term functioning of democratic institutions.
 
-The core argument is that political integration is not simply a function of contact with natives. What matters is how immigrants experience and interpret those interactions within broader social and political contexts. Appreciation-based interpersonal contact, in which immigrants feel recognized, respected, and valued, can foster political belonging, trust, and efficacy by reshaping how they see themselves in relation to the host society.
+Existing work has devoted much more attention to immigrants' ties with co-ethnics and to natives' attitudes toward immigrants than to the political consequences of immigrants' own interactions with native-born citizens. The literature on intergroup relations in Europe has also focused more on exposure than on meaningful contact. This dissertation addresses those gaps by examining how and why immigrants' interactions with natives contribute to political integration.
 
-At the same time, these effects are conditional. In settings characterized by anti-immigrant sentiment, exclusionary discourse, or perceived hostility, even frequent contact may fail to translate into political integration. By distinguishing interpersonal interaction from contextual hostility, the dissertation shows how micro-level experiences and macro-level environments jointly shape immigrants' political incorporation.
+The central argument is that contact does not integrate immigrants uniformly. Instead, the political consequences of contact depend on both the quality of interpersonal interaction and the broader local climate in which that interaction occurs. Positive contact can draw immigrants into the political community, but its effects are conditional on context. In hostile settings, even deeper ties with natives may fail to foster integration and can sometimes even reverse.
 
 ## Guiding Question
 
@@ -47,38 +33,46 @@ The dissertation addresses four connected questions:
 - Under what conditions does contact fail to translate into political integration?
 - How do hostile or exclusionary contexts condition the political consequences of intergroup contact?
 
-## Dissertation Components
+## Theory
 
 <div class="dissertation-sections">
   <section class="dissertation-section-card">
-    <h3>When Contact Matters</h3>
-    <p>This part of the project studies how the quality of interpersonal interaction influences immigrant political integration. Rather than focusing only on whether contact occurs, it examines whether positive, meaningful, and trust-building interactions shape belonging and political incorporation differently.</p>
+    <h3>Contact and Context</h3>
+    <p>The dissertation distinguishes micro-level interpersonal contact from the broader hostile environment in which that contact occurs, and argues that both must be studied together to understand political integration.</p>
   </section>
   <section class="dissertation-section-card">
-    <h3>Qualitative Fieldwork in Belgium and Germany</h3>
-    <p>The qualitative component draws on interviews with first-generation immigrants about their social relationships, political experiences, and sense of place in the host society. These interviews help identify the mechanisms through which intergroup relations matter and provide context for the survey and experimental evidence.</p>
-  </section>
-  <section class="dissertation-section-card">
-    <h3>Included but Not Integrated?</h3>
-    <p>A central empirical chapter examines whether social inclusion in everyday life translates into political integration. The project asks whether immigrants can be welcomed interpersonally while still remaining politically distant from the host society.</p>
+    <h3>Recognition Mechanisms</h3>
+    <p>The project emphasizes recognition-based contact and traces two key shifts through which it may matter: decategorization, being seen as an individual, and recategorization, coming to share a civic "we" with natives.</p>
   </section>
 </div>
 
-## Fieldwork and Evidence
+## Empirical Chapter I: Regional Survey Analysis
 
 <figure class="dissertation-figure">
   <img src="/images/dissertation/attimm_kkz.png" alt="Presentation slide from the dissertation project on immigrant political integration.">
-  <figcaption>One empirical strand of the dissertation examines how the quality of interactions with natives shapes immigrants' political integration in hostile contexts.</figcaption>
 </figure>
 
-Fieldwork for the dissertation took place in Belgium and Germany from April 7 to May 31, 2025. During this period, I interviewed first-generation immigrants about everyday life, social relationships, and political incorporation while affiliated with the Research Centre for Migration, Diversity and Justice (CMDJ) in Belgium and the Mannheim Centre for European Social Research (MZES) in Germany.
+Drawing on the German Socio-Economic Panel (2021-2022), this chapter examines how everyday interaction with natives shapes immigrants' political integration. The argument is that the quality of interpersonal contact matters, but that its effects are conditioned by the broader local climate in which contact occurs.
 
-Additional dissertation development has included survey-based chapter work, conference presentations, and a pre-analysis plan for an experiment on the effects of interpersonal contact on political integration.
+To test this, the chapter links immigrant respondents to granular district-level measures of hostility and uses matching to compare otherwise similar immigrants. The findings show that contact does not integrate immigrants uniformly: more positive encounters are associated with stronger political integration, but these relationships weaken and can reverse where hostility is high.
 
-## Recent Presentations and Research Milestones
+## Empirical Chapter II: Interviews
+
+Based on 35 semi-structured, in-depth interviews with first-generation Syrian and Turkish immigrants in Belgium and Germany, this chapter examines how immigrants themselves understand interactions with natives and their political integration process.
+
+Its central goal is construct validity. The interviews show that immigrants clearly distinguish micro-level interpersonal contact from the broader hostile environment around them, and they illuminate two processes that help explain why positive contact matters: decategorization, being seen as an individual rather than "the immigrant," and recategorization, coming to share a civic "we" with natives.
+
+## Empirical Chapter III: Chat-Based Experiment
+
+The final empirical chapter tests the causal effect of positive interpersonal contact on immigrant political integration through a chat-based survey experiment with first-generation non-EU immigrants in Belgium and Germany.
+
+Participants are randomly assigned to one of three conditions: a positive recognition-based interaction, a neutral transactional interaction, or a no-interaction control. Through a structured chat interface, the design isolates whether positive contact raises political integration and whether it does so by increasing recognition and a sense of shared civic identity.
+
+## Dissertation Progress
 
 <ul class="dissertation-links">
   <li><a href="/updates/2026-05-08-priec-at-ucsb/">PRIEC at UCSB (May 8, 2026)</a></li>
+  <li><a href="/updates/2026-04-23-mpsa-annual-meeting/">2026 MPSA Annual Meeting (April 23, 2026)</a></li>
   <li><a href="/updates/2025-11-19-soep-research-data-center-visit/">SOEP Research Data Center Visit (November 19, 2025)</a></li>
   <li><a href="/updates/2025-11-13-workshop-political-identities-in-europe/">Political Identities in Europe Workshop (November 13, 2025)</a></li>
   <li><a href="/updates/2025-09-11-apsa-annual-meeting/">APSA Annual Meeting (September 11, 2025)</a></li>
@@ -90,14 +84,15 @@ Additional dissertation development has included survey-based chapter work, conf
   <li><a href="/updates/2024-10-23-iri-seminar/">IRI Seminar (October 23, 2024)</a></li>
 </ul>
 
-## Fellowship Support
+## Dissertation Support
+
+This dissertation has been supported by multiple fellowships and research grants:
 
 <ul class="dissertation-support">
-  <li>Marion Morse Wood Fellowship ($12,000)</li>
-  <li>Ferber and Sudman Dissertation Awards for Survey Research ($2,500)</li>
-  <li>Immigration Research Initiative Visiting Fellowship (CAD 8,000)</li>
-  <li>Mannheim Centre for European Social Research Visiting Fellowship (EUR 4,000)</li>
-  <li>Graduate College Dissertation Travel Grant ($5,000)</li>
+  <li><a href="https://fellowship-finder.grad.illinois.edu/SearchResult/Fellowship/2807">Graduate College Dissertation Completion Fellowship</a> ($25,000), 2026-2027</li>
+  <li><a href="https://fellowship-finder.grad.illinois.edu/SearchResult/Fellowship/3299">Marion Morse Wood Fellowship in Interpersonal Communication</a> ($12,000), 2025-2026</li>
+  <li><a href="https://fellowship-finder.grad.illinois.edu/SearchResult/Fellowship/4616">Ferber and Sudman Dissertation Awards for Survey Research</a> ($2,500), 2025</li>
+  <li><a href="https://www.sowi.uni-mannheim.de/en/research/#c93966">Mannheim Centre for European Social Research Visiting Fellowship</a> (EUR 4,500), 2025</li>
+  <li><a href="https://fellowship-finder.grad.illinois.edu/SearchResult/Fellowship/2901">Graduate College Dissertation Travel Grant</a> ($5,000), 2024</li>
+  <li><a href="https://www.irimmigration.org/bourse-doctorant-invite-doctoral-visiting-fellowship/">Immigration Research Initiative Visiting Fellowship</a> (CAD 8,000), 2024</li>
 </ul>
-
-*For papers or presentation materials related to the dissertation, please feel free to get in touch.*

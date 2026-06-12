@@ -178,7 +178,12 @@
 }
 
 .dissertation-hero {
-  margin: 0.5rem 0 2rem;
+  margin: 0.5rem 0 2.4rem;
+  padding: 1.2rem 1rem 1.4rem;
+  text-align: center;
+  background: linear-gradient(180deg, rgba(82, 173, 200, 0.12) 0%, rgba(82, 173, 200, 0.03) 100%);
+  border: 1px solid rgba(82, 173, 200, 0.18);
+  border-radius: 0.85rem;
 }
 
 .dissertation-hero__kicker {
@@ -192,16 +197,30 @@
 }
 
 .dissertation-hero__title {
-  margin: 0;
+  margin: 0 auto 1.05rem;
+  max-width: 40rem;
   font-family: $header-font-family;
-  font-size: 1.45em;
-  line-height: 1.3;
+  font-size: 1.65em;
+  line-height: 1.18;
+
+  @include breakpoint($medium) {
+    font-size: 1.9em;
+  }
 }
 
 .dissertation-hero__subtitle {
-  margin-top: 0.85rem;
-  max-width: 48rem;
+  margin: 0 auto;
+  max-width: 40rem;
   font-size: 1em;
+  line-height: 1.7;
+}
+
+.dissertation-intro {
+  max-width: 42rem;
+  margin: 0 auto 2.2rem;
+  font-size: 1.05em;
+  line-height: 1.75;
+  text-align: center;
 }
 
 .dissertation-page .page__content > h2 {
@@ -221,6 +240,7 @@
   padding-bottom: 0;
 }
 
+
 .dissertation-meta {
   display: grid;
   grid-template-columns: 1fr;
@@ -235,14 +255,17 @@
 .dissertation-meta__item,
 .dissertation-section-card {
   padding: 1rem 1.1rem;
-  border: 1px solid var(--global-border-color);
-  border-radius: 0.6rem;
-  background: mix(#fff, #f2f3f3, 65%);
+  border: 1px solid rgba(73, 78, 82, 0.08);
+  border-radius: 1rem;
+  background: #fbfaf8;
+  box-shadow: 0 14px 30px rgba(28, 43, 56, 0.06);
 }
 
 html[data-theme="dark"] .dissertation-meta__item,
 html[data-theme="dark"] .dissertation-section-card {
-  background: rgba(255, 255, 255, 0.04);
+  border-color: rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.05);
+  box-shadow: none;
 }
 
 .dissertation-meta__label {
@@ -273,27 +296,34 @@ html[data-theme="dark"] .dissertation-section-card {
 }
 
 .dissertation-figure {
+  display: block;
   margin: 1rem 0 1.75rem;
+  text-align: center;
 }
 
 .dissertation-figure img {
+  display: block;
   width: 100%;
-  max-width: 42rem;
+  max-width: 36rem;
+  margin: 0 auto;
   border-radius: 0.35rem;
 }
 
 .dissertation-figure figcaption {
-  max-width: 42rem;
+  max-width: 36rem;
+  margin: 0.5rem auto 0;
 }
 
 .dissertation-links,
 .dissertation-support {
   padding-left: 1.2rem;
+  margin-bottom: 1.1rem;
+  line-height: 1.45;
 }
 
 .dissertation-links li,
 .dissertation-support li {
-  margin-bottom: 0.55rem;
+  margin-bottom: 0.2rem;
 }
 
 .updates-page .page__inner-wrap {
