@@ -221,6 +221,81 @@
   padding-bottom: 0;
 }
 
+.dissertation-meta {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 0 0 2.25rem;
+
+  @include breakpoint($medium) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.dissertation-meta__item,
+.dissertation-section-card {
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 0.6rem;
+  background: mix(#fff, #f2f3f3, 65%);
+}
+
+html[data-theme="dark"] .dissertation-meta__item,
+html[data-theme="dark"] .dissertation-section-card {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.dissertation-meta__label {
+  display: block;
+  margin-bottom: 0.35rem;
+  font-family: $header-font-family;
+  font-size: 0.8em;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--global-text-color-light);
+}
+
+.dissertation-meta__item p,
+.dissertation-section-card p,
+.dissertation-section-card h3 {
+  margin: 0;
+}
+
+.dissertation-sections {
+  display: grid;
+  gap: 1rem;
+}
+
+.dissertation-section-card h3 {
+  margin-bottom: 0.55rem;
+  font-size: 1.02em;
+}
+
+.dissertation-figure {
+  margin: 1rem 0 1.75rem;
+}
+
+.dissertation-figure img {
+  width: 100%;
+  max-width: 42rem;
+  border-radius: 0.35rem;
+}
+
+.dissertation-figure figcaption {
+  max-width: 42rem;
+}
+
+.dissertation-links,
+.dissertation-support {
+  padding-left: 1.2rem;
+}
+
+.dissertation-links li,
+.dissertation-support li {
+  margin-bottom: 0.55rem;
+}
+
 .updates-page .page__inner-wrap {
   max-width: 54rem;
   margin-right: auto;
