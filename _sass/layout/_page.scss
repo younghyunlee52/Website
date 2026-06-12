@@ -179,11 +179,8 @@
 
 .dissertation-hero {
   margin: 0.5rem 0 2.4rem;
-  padding: 1.2rem 1rem 1.4rem;
+  padding: 0.4rem 0 0.6rem;
   text-align: center;
-  background: linear-gradient(180deg, rgba(82, 173, 200, 0.12) 0%, rgba(82, 173, 200, 0.03) 100%);
-  border: 1px solid rgba(82, 173, 200, 0.18);
-  border-radius: 0.85rem;
 }
 
 .dissertation-hero__kicker {
@@ -216,10 +213,10 @@
 }
 
 .dissertation-intro {
-  max-width: 42rem;
-  margin: 0 auto 2.2rem;
+  max-width: 48rem;
+  margin: 0 auto 1.8rem;
   font-size: 1.05em;
-  line-height: 1.75;
+  line-height: 1.4;
   text-align: center;
 }
 
@@ -240,7 +237,6 @@
   padding-bottom: 0;
 }
 
-
 .dissertation-meta {
   display: grid;
   grid-template-columns: 1fr;
@@ -252,8 +248,7 @@
   }
 }
 
-.dissertation-meta__item,
-.dissertation-section-card {
+.dissertation-meta__item {
   padding: 1rem 1.1rem;
   border: 1px solid rgba(73, 78, 82, 0.08);
   border-radius: 1rem;
@@ -261,8 +256,7 @@
   box-shadow: 0 14px 30px rgba(28, 43, 56, 0.06);
 }
 
-html[data-theme="dark"] .dissertation-meta__item,
-html[data-theme="dark"] .dissertation-section-card {
+html[data-theme="dark"] .dissertation-meta__item {
   border-color: rgba(255, 255, 255, 0.08);
   background: rgba(255, 255, 255, 0.05);
   box-shadow: none;
@@ -279,20 +273,8 @@ html[data-theme="dark"] .dissertation-section-card {
   color: var(--global-text-color-light);
 }
 
-.dissertation-meta__item p,
-.dissertation-section-card p,
-.dissertation-section-card h3 {
+.dissertation-meta__item p {
   margin: 0;
-}
-
-.dissertation-sections {
-  display: grid;
-  gap: 1rem;
-}
-
-.dissertation-section-card h3 {
-  margin-bottom: 0.55rem;
-  font-size: 1.02em;
 }
 
 .dissertation-figure {
@@ -301,17 +283,29 @@ html[data-theme="dark"] .dissertation-section-card {
   text-align: center;
 }
 
+.dissertation-findings {
+  margin: 1.25rem 0 1.75rem;
+}
+
 .dissertation-figure img {
   display: block;
   width: 100%;
-  max-width: 36rem;
+  max-width: 40rem;
   margin: 0 auto;
   border-radius: 0.35rem;
 }
 
 .dissertation-figure figcaption {
-  max-width: 36rem;
+  max-width: 40rem;
   margin: 0.5rem auto 0;
+}
+
+.dissertation-figure--wide img {
+  max-width: 40rem;
+}
+
+.dissertation-figure--theory img {
+  max-width: 40rem;
 }
 
 .dissertation-links,
