@@ -19,8 +19,8 @@ minorities in developed democracies, situating my work at the intersection of
 comparative political behavior, political psychology, and identity politics.
 My dissertation explores how intergroup relations between natives and
 immigrants shape immigrants' political integration in the context of
-anti-immigrant sentiment in Belgium and Germany. My work has been published in *Political Science Research and Methods* and the
-*Journal of Ethnic and Migration Studies*.
+anti-immigrant sentiment in Belgium and Germany. My work has been published in ***Political Science Research and Methods*** and the
+***Journal of Ethnic and Migration Studies***.
 
 I was a doctoral visiting fellow at the
 [Immigration Research Initiative (IRI)](https://www.irimmigration.org/younghyun-lee/)
