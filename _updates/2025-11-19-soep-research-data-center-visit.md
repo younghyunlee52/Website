@@ -3,7 +3,7 @@ title: "SOEP Research Data Center Visit"
 date: 2025-11-19
 display_date: "November 19-26, 2025"
 location: "Berlin, Germany"
-image: /images/updates/20251119.png
+image: /images/updates/20251119.jpg
 image_alt:
 caption:
 ---
