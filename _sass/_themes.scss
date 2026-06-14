@@ -14,13 +14,13 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* System typefaces */
-$serif                      : "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
-$sans-serif                 : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$serif                      : "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
+$sans-serif                 : "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* Sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
-$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$helvetica                  : "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
 
 /* Serif typefaces */
 $georgia                    : Georgia, serif;
@@ -39,7 +39,7 @@ $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
-$global-font-family         : $serif;
+$global-font-family         : $sans-serif;
 $header-font-family         : $helvetica;
 $caption-font-family        : $helvetica;
 
