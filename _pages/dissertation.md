@@ -36,23 +36,27 @@ Existing work has devoted much more attention to immigrants' ties with co-ethnic
   </div>
 </div>
 
-Drawing on the German Socio-Economic Panel (2021-2022), I show that the quality of interpersonal contact shapes political integration, but that this effect is conditioned by the broader local context in which contact occurs. To test this, the chapter links immigrant respondents to granular district-level measures of hostility and uses matching to compare otherwise similar immigrants.
+Immigrants experience both personal contact with natives and the broader climate of the place they live in. This project asks how everyday interaction with natives is related to political integration, and how the local climate shapes that relationship. Drawing on the German Socio-Economic Panel (2021–2022), I link immigrants to district-level measures of hostility and use matching to compare otherwise similar people.
+I measure two kinds of hostility separately, because they do not always overlap: societal hostility, meaning everyday anti-immigrant sentiment, and political hostility, measured through far-right support.
+
 
 <figure class="dissertation-figure dissertation-figure--wide">
   <img src="/images/dissertation/hostility.jpg" alt="Maps of societal hostility and political hostility across districts in Germany.">
 </figure>
 
-The findings show that contact does not integrate immigrants uniformly: more positive encounters are associated with stronger political integration, but these relationships weaken and can reverse where hostility is high.
+
+The same kind of contact is associated with different outcomes depending on where it happens. Where the local climate is welcoming, positive contact with natives is associated with higher political trust, interest, and efficacy. Where hostility is high, that association weakens, and in some cases it runs in the opposite direction.
 
 <div class="dissertation-findings">
   <figure class="dissertation-figure dissertation-figure--wide">
     <img src="/images/dissertation/figure3a_positive_contact_slopes.png" alt="Positive contact across hostility levels for political efficacy, political interest, and political trust.">
   </figure>
-  <p>When contextual pressures are minimal, the quality of everyday interpersonal contact with natives is clearly and consistently associated with all three dimensions of political integration.</p>
+  <p>Where hostility is low, positive contact is associated with all three dimensions of political integration. </p>
   <figure class="dissertation-figure dissertation-figure--wide">
     <img src="/images/dissertation/figure3b_negative_contact_slopes.png" alt="Negative contact across hostility levels for political efficacy, political interest, and political trust.">
   </figure>
 </div>
+Negative contact shows the opposite pattern, and under high hostility, even close ties to natives can go together with a stronger sense of exclusion.
 
 Based on 35 semi-structured, in-depth interviews with first-generation Syrian and Turkish immigrants in Belgium and Germany, this chapter examines how immigrants themselves understand interactions with natives and their political integration process.
 
