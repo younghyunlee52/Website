@@ -27,7 +27,6 @@ I was a doctoral visiting fellow at the
 in Fall 2024 and at the
 [Mannheim Centre for European Social Research (MZES)](https://www.mzes.uni-mannheim.de/d7/en)
 in May 2025. Before joining UIUC, I worked as a research associate at the East
-Asia Institute and completed a traineeship at the
-[European Parliamentary Research Service](https://epthinktank.eu/). I hold an
+Asia Institute and completed a traineeship at the European Parliamentary Research Service. I hold an
 M.A. in Political Science and a B.A. in French Literature and International
 Studies, both from Korea University.
