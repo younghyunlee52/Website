@@ -13,18 +13,18 @@ page_class: dissertation-page
   <h2 class="dissertation-hero__deck">How Intergroup Relations with Natives Shape Immigrant Political Integration</h2>
 </div>
 
-Across Western democracies, immigrants are being asked to belong to political communities that are, at the same time, growing more hostile to them. Whether immigrants come to see themselves as full members of the political community, or are instead pushed to its margins, has consequences not only for social cohesion but also for the long-term functioning of democratic institutions. Yet the same immigrants have natives as neighbors, coworkers, and friends — and we know little about whether these everyday interactions pull immigrants toward belonging or sharpen their sense of exclusion.
+Across Western democracies, immigrants are being asked to belong to political communities that are, at the same time, growing more hostile to them. While immigrants encounter anti-immigrant rhetoric and exclusionary politics, they also interact with natives as neighbors, coworkers, and friends. This dissertation asks how these everyday interactions shape immigrants' political integration, and how broader hostile contexts condition these relationships.
 
-Existing work has devoted much more attention to immigrants' ties with co-ethnics, and to natives' attitudes toward immigrants, than to the political consequences of immigrants' own interactions with native-born citizens. The literature on intergroup relations in Europe has also focused more on exposure than on meaningful contact. This dissertation addresses those gaps by examining how and why immigrants' interactions with natives shape their political integration.
+My dissertation develops a minority-centered perspective on intergroup contact, focusing on how immigrants themselves experience and navigate interactions with natives. I argue (1) that contact with natives shapes immigrants' political integration, but its effect depends on the surrounding climate and (2) that it works by changing how immigrants see themselves. Here, political integration refers to immigrants' political trust, interest, efficacy, and sense of belonging.
 
 <figure class="dissertation-figure dissertation-figure--theory">
-  <img src="/images/dissertation/theory.jpg" alt="Conceptual framework showing how contact with natives shapes political integration through identity shift, conditioned by contextual hostility.">
+  <img src="/images/dissertation/theory.jpg" alt="Conceptual framework showing how contact with natives is related to political integration through identity shift, conditioned by contextual hostility.">
 </figure>
 
 <div class="dissertation-meta">
   <div class="dissertation-meta__item">
     <span class="dissertation-meta__label">Empirical Chapter I</span>
-    <p>Regional survey analysis using SOEP, district-level hostility measures, and matching to assess how contact and context jointly shape political integration in Germany.</p>
+    <p>Regional survey analysis using SOEP, district-level hostility measures, and matching to assess how contact and context jointly explain political integration in Germany.</p>
   </div>
   <div class="dissertation-meta__item">
     <span class="dissertation-meta__label">Empirical Chapter II</span>
@@ -32,11 +32,13 @@ Existing work has devoted much more attention to immigrants' ties with co-ethnic
   </div>
   <div class="dissertation-meta__item">
     <span class="dissertation-meta__label">Empirical Chapter III</span>
-    <p>Chat-based experiment testing whether recognition-based interactions with natives causally increase immigrants' political integration.</p>
+    <p>The final empirical chapter provides the causal test through a chat-based survey experiment, currently in the field, that varies whether participants experience recognition-based or neutral interpersonal contact.</p>
   </div>
 </div>
 
-Immigrants experience both personal contact with natives and the broader climate of the place they live in. This project asks how everyday interaction with natives is related to political integration, and how the local climate shapes that relationship. Drawing on the German Socio-Economic Panel (2021–2022), I link immigrants to district-level measures of hostility and use matching to compare otherwise similar people.
+## Survey Evidence
+
+Drawing on the German Socio-Economic Panel (2021–2022), I link immigrants to district-level measures of hostility and use matching to compare otherwise similar individuals exposed to different social contexts.
 I measure two kinds of hostility separately, because they do not always overlap: societal hostility, meaning everyday anti-immigrant sentiment, and political hostility, measured through far-right support.
 
 
@@ -45,42 +47,20 @@ I measure two kinds of hostility separately, because they do not always overlap:
 </figure>
 
 
-The same kind of contact is associated with different outcomes depending on where it happens. Where the local climate is welcoming, positive contact with natives is associated with higher political trust, interest, and efficacy. Where hostility is high, that association weakens, and in some cases it runs in the opposite direction.
+Positive contact with natives is most strongly associated with political integration in more welcoming contexts, whereas hostile environments can limit or alter these relationships.
 
 <div class="dissertation-findings">
   <figure class="dissertation-figure dissertation-figure--wide">
     <img src="/images/dissertation/figure3a_positive_contact_slopes.png" alt="Positive contact across hostility levels for political efficacy, political interest, and political trust.">
   </figure>
-  <p>Where hostility is low, positive contact is associated with all three dimensions of political integration. </p>
-  <figure class="dissertation-figure dissertation-figure--wide">
-    <img src="/images/dissertation/figure3b_negative_contact_slopes.png" alt="Negative contact across hostility levels for political efficacy, political interest, and political trust.">
-  </figure>
 </div>
-Negative contact shows the opposite pattern, and under high hostility, even close ties to natives can go together with a stronger sense of exclusion.
 
-Based on 35 semi-structured, in-depth interviews with first-generation Syrian and Turkish immigrants in Belgium and Germany, this chapter examines how immigrants themselves understand interactions with natives and their political integration process.
+## What Immigrants Say
 
-The interviews show that immigrants clearly distinguish micro-level interpersonal contact from the broader hostile environment around them, and they illuminate two processes that help explain why positive contact matters: decategorization, being seen as an individual rather than "the immigrant," and recategorization, coming to share a civic "we" with natives.
-
+Based on 35 interviews with first-generation Syrian and Turkish immigrants in Belgium and Germany, this chapter explores how immigrants themselves understand contact with natives and political integration. All names are pseudonyms.
 <div class="dissertation-interview-themes">
   <section class="dissertation-interview-theme">
-    <h3>Contact and Context</h3>
-    <p class="dissertation-interview-theme__summary">Immigrants distinguish interpersonal relationships with natives from the broader hostile society around them.</p>
-    <div class="dissertation-quote-grid">
-      <blockquote class="dissertation-quote-card">
-        <p>"The people around me are the same, so they didn't change, but only in the media we see it."</p>
-        <cite>Lina (Syrian woman), Germany</cite>
-      </blockquote>
-      <blockquote class="dissertation-quote-card">
-        <p>"From people, I didn't experience anything bad. But if I follow the news, I see people are more and more in the right mindset, which means less immigrants."</p>
-        <cite>Sinan (Turkish man), Belgium</cite>
-      </blockquote>
-    </div>
-  </section>
-
-  <section class="dissertation-interview-theme">
-    <h3>Recognition-Based Contact</h3>
-    <p class="dissertation-interview-theme__summary">Immigrants describe positive contact as recognition- or appreciation-based interaction, not merely polite or friendly exchange; superficial warmth can still feel exclusionary when it reproduces stigma or unequal standing.</p>
+    <h3>Positive Contact Is Recognition- or Appreciation-Based Interaction</h3>
     <div class="dissertation-quote-grid">
       <blockquote class="dissertation-quote-card">
         <p>"My colleagues accepted that I was different, with a different language and culture. I felt respected, and they did not make me feel like I did not know something."</p>
@@ -94,8 +74,7 @@ The interviews show that immigrants clearly distinguish micro-level interpersona
   </section>
 
   <section class="dissertation-interview-theme">
-    <h3>Decategorization and Recategorization</h3>
-    <p class="dissertation-interview-theme__summary">Positive contact works through two identity shifts: being seen as an individual rather than as "the immigrant," and coming to share a civic "we" with natives.</p>
+    <h3>Contact Changes How Immigrants See Themselves: Recategorization and Decategorization</h3>
     <div class="dissertation-quote-grid">
       <blockquote class="dissertation-quote-card">
         <p>"If I feel connected to Germans, then why shouldn't I feel connected to Germany?"</p>
@@ -109,8 +88,7 @@ The interviews show that immigrants clearly distinguish micro-level interpersona
   </section>
 
   <section class="dissertation-interview-theme">
-    <h3>Political Integration Does Not Move Together</h3>
-    <p class="dissertation-interview-theme__summary">Belonging, trust, efficacy, and interest do not always rise or fall as one package; immigrants can be politically attentive while still feeling distant from the political community.</p>
+    <h3>Political Integration Has Multiple Dimensions</h3>
     <div class="dissertation-quote-grid">
       <blockquote class="dissertation-quote-card">
         <p>"I really trust here; there's a system working and I trust the system. But I don't belong here. I would consider myself politically integrated but not culturally."</p>
@@ -124,16 +102,4 @@ The interviews show that immigrants clearly distinguish micro-level interpersona
   </section>
 </div>
 
-
-## Dissertation Support
-
-This dissertation has been supported by multiple fellowships and research grants:
-
-<ul class="dissertation-support">
-  <li><a href="https://fellowship-finder.grad.illinois.edu/SearchResult/Fellowship/2807">Graduate College Dissertation Completion Fellowship</a> ($25,000), 2026-2027</li>
-  <li><a href="https://fellowship-finder.grad.illinois.edu/SearchResult/Fellowship/3299">Marion Morse Wood Fellowship in Interpersonal Communication</a> ($12,000), 2025-2026</li>
-  <li><a href="https://fellowship-finder.grad.illinois.edu/SearchResult/Fellowship/4616">Ferber and Sudman Dissertation Awards for Survey Research</a> ($2,500), 2025</li>
-  <li><a href="https://www.sowi.uni-mannheim.de/en/research/#c93966">Mannheim Centre for European Social Research Visiting Fellowship</a> (EUR 4,500), 2025</li>
-  <li><a href="https://fellowship-finder.grad.illinois.edu/SearchResult/Fellowship/2901">Graduate College Dissertation Travel Grant</a> ($5,000), 2024</li>
-  <li><a href="https://www.irimmigration.org/bourse-doctorant-invite-doctoral-visiting-fellowship/">Immigration Research Initiative Visiting Fellowship</a> (CAD 8,000), 2024</li>
-</ul>
+Together, my dissertation shows that contact matters politically when it becomes recognition, and that its consequences depend on the social and political context in which it occurs.

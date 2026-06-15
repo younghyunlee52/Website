@@ -275,7 +275,7 @@
   display: grid;
   grid-template-columns: 1fr;
   gap: 1rem;
-  margin: 0 0 2.25rem;
+  margin: 0 0 2.75rem;
 
   @include breakpoint($medium) {
     grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -322,7 +322,7 @@
 }
 
 .dissertation-findings {
-  margin: 1.25rem 0 1.75rem;
+  margin: 1.5rem 0 2.25rem;
 }
 
 .dissertation-figure img {
@@ -347,11 +347,11 @@
 }
 
 .dissertation-interview-themes {
-  margin: 1.5rem 0 2rem;
+  margin: 1.85rem 0 2.6rem;
 }
 
 .dissertation-interview-theme {
-  margin: 0 0 1.6rem;
+  margin: 0 0 2rem;
 }
 
 .dissertation-interview-theme h3 {
@@ -383,7 +383,7 @@
   margin: 0;
   padding: 1rem 1.1rem;
   border: 1px solid var(--dissertation-navy-soft);
-  background: #fff;
+  background: #fbfaf7;
   font-style: normal;
   min-height: 8rem;
 }
