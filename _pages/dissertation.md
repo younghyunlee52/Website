@@ -124,21 +124,6 @@ The interviews show that immigrants clearly distinguish micro-level interpersona
   </section>
 </div>
 
-## Dissertation Progress
-
-<ul class="dissertation-links">
-  <li><a href="/updates/2026-05-08-priec-at-ucsb/">PRIEC at UCSB (May 8, 2026)</a></li>
-  <li><a href="/updates/2026-04-23-mpsa-annual-meeting/">2026 MPSA Annual Meeting (April 23, 2026)</a></li>
-  <li><a href="/updates/2025-11-19-soep-research-data-center-visit/">SOEP Research Data Center Visit (November 19, 2025)</a></li>
-  <li><a href="/updates/2025-11-13-workshop-political-identities-in-europe/">Political Identities in Europe Workshop (November 13, 2025)</a></li>
-  <li><a href="/updates/2025-09-11-apsa-annual-meeting/">APSA Annual Meeting (September 11, 2025)</a></li>
-  <li><a href="/updates/2025-07-01-apsa-virtual-dissertation-workshops/">APSA Dissertation Workshops (Summer 2025)</a></li>
-  <li><a href="/updates/2025-05-01-mzes-visiting-fellowship/">MZES Visiting Fellowship (May 2025)</a></li>
-  <li><a href="/updates/2025-04-07-dissertation-fieldwork/">Dissertation Fieldwork in Belgium and Germany (April 7 to May 31, 2025)</a></li>
-  <li><a href="/updates/2025-04-03-mpsa-annual-meeting/">MPSA Annual Meeting (April 3 to 6, 2025)</a></li>
-  <li><a href="/updates/2024-10-30-mcgill-political-behavior-workshop/">McGill Political Behavior Workshop (October 30, 2024)</a></li>
-  <li><a href="/updates/2024-10-23-iri-seminar/">IRI Seminar (October 23, 2024)</a></li>
-</ul>
 
 ## Dissertation Support
 

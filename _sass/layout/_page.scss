@@ -192,6 +192,11 @@
   text-align: left;
 }
 
+.dissertation-page {
+  --dissertation-navy: #172a46;
+  --dissertation-navy-soft: rgba(23, 42, 70, 0.24);
+}
+
 .dissertation-hero {
   margin: 0.5rem 0 1.2rem;
   padding: 0.4rem 0 0.6rem;
@@ -207,7 +212,7 @@
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: var(--global-text-color-light);
+  color: var(--dissertation-navy);
 }
 
 .dissertation-hero__title {
@@ -279,7 +284,7 @@
 
 .dissertation-meta__item {
   padding: 1rem 1.1rem;
-  border: 1px solid rgba(73, 78, 82, 0.18);
+  border: 1px solid var(--dissertation-navy-soft);
   border-radius: 0;
   background: #ffffff;
   box-shadow: none;
@@ -293,7 +298,7 @@
   font-weight: 700;
   letter-spacing: 0.04em;
   text-transform: uppercase;
-  color: var(--global-text-color-light);
+  color: var(--dissertation-navy);
 }
 
 .dissertation-meta__item p {
@@ -355,7 +360,7 @@
   font-weight: 700;
   letter-spacing: 0.05em;
   text-transform: uppercase;
-  color: var(--global-text-color-light);
+  color: var(--dissertation-navy);
 }
 
 .dissertation-interview-theme__summary {
@@ -377,7 +382,7 @@
 .dissertation-quote-card {
   margin: 0;
   padding: 1rem 1.1rem;
-  border: 1px solid rgba(73, 78, 82, 0.18);
+  border: 1px solid var(--dissertation-navy-soft);
   background: #fff;
   font-style: normal;
   min-height: 8rem;
@@ -392,7 +397,7 @@
 .dissertation-quote-card cite {
   display: block;
   margin-top: 0.75rem;
-  color: var(--global-text-color-light);
+  color: var(--dissertation-navy);
   font-size: 0.78em;
   font-style: normal;
   font-weight: 700;
