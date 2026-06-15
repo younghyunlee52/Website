@@ -8,6 +8,6 @@ image_alt:
 caption:
 ---
 
-This was my first MPSA and I presented my paper *"Well-Integrated Immigrants Without a Sense of Belonging?"* I couldn't complete the project without the endless support of my two first-year advisors Professor Avital Livny and Professor Cara Wong.
+At the 2022 MPSA Annual Meeting, I presented my paper *"Well-Integrated Immigrants Without a Sense of Belonging?"* I am grateful to Avital Livny and Cara Wong for their guidance and support on this project.
 
 More information about the working group and its agenda can be found [here](https://www.alivny.com/teaching).
