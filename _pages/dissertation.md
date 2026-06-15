@@ -13,7 +13,6 @@ page_class: dissertation-page
   <h2 class="dissertation-hero__deck">How Intergroup Relations with Natives Shape Immigrant Political Integration</h2>
 </div>
 
-Across Western democracies, immigrants are being asked to belong to political communities that are, at the same time, growing more hostile to them. While immigrants encounter anti-immigrant rhetoric and exclusionary politics, they also interact with natives as neighbors, coworkers, and friends. This dissertation asks how these everyday interactions shape immigrants' political integration, and how broader hostile contexts condition these relationships.
 
 My dissertation develops a minority-centered perspective on intergroup contact, focusing on how immigrants themselves experience and navigate interactions with natives. I argue (1) that contact with natives shapes immigrants' political integration, but its effect depends on the surrounding climate and (2) that it works by changing how immigrants see themselves. Here, political integration refers to immigrants' political trust, interest, efficacy, and sense of belonging.
 
