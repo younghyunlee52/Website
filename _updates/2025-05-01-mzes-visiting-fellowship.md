@@ -7,8 +7,6 @@ image: /images/updates/20250501.jpg
 image_alt: "Younghyun Lee at MZES in Mannheim"
 
 ---
-In May, I was a visiting fellow at the [Mannheim Centre for European Social Research](https://www.mzes.uni-mannheim.de/d7/en) (MZES) in Mannheim, Germany for a month. MZES is home to outstanding faculty and students working in political science, computational social science, and migration studies, and I had the opportunity to engage with several inspiring scholars during my stay.
-
-On May 14, I presented the pre-analysis plan for my experimental dissertation chapter and greatly appreciated the valuable feedback I received.
+In May 2025, I was a visiting fellow at the [Mannheim Centre for European Social Research](https://www.mzes.uni-mannheim.de/d7/en) (MZES) in Mannheim, Germany. During my stay, I presented my experimental dissertation project and received valuable feedback.
 
 More information about the fellowship can be found [here](https://x.com/MZESUniMannheim/status/1845769402932674705).
