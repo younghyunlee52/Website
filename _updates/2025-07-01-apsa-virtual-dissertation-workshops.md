@@ -8,6 +8,6 @@ image_alt:
 caption:
 ---
 
-I participated in two APSA Dissertation Workshops: (1) New Topics in European Politics (June 12, 16) and (2) Citizenship & Migration (August 19, 25, 26). In these workshops, I presented a draft of my pre-analysis plan for my dissertation experiment on the effect of interpersonal contact on political integration. I am grateful to all participants for their valuable feedback, and I especially thank the facilitators, Miguel and Mareike (European Politics) and Claire and Irene (Migration & Citizenship), for their guidance and support. It was also wonderful to meet other graduate students who share similar research interests and are at a similar stage in their academic journey. I wish everyone the best of luck with their work!
+I participated in two APSA Dissertation Workshops: (1) New Topics in European Politics (June 12, 16) and (2) Citizenship & Migration (August 19, 25, 26). In these workshops, I presented my dissertation experiment on the effect of interpersonal contact on political integration. I am grateful for the valuable feedback from participants and especially thank the workshop facilitators, Miguel and Mareike (European Politics) and Claire and Irene (Citizenship & Migration), for their thoughtful comments and support.
 
 More information about the workshops can be found [here](https://apsanet.org/resources/for-students/apsa-dissertation-workshops/).
