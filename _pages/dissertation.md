@@ -62,6 +62,84 @@ Based on 35 semi-structured, in-depth interviews with first-generation Syrian an
 
 The interviews show that immigrants clearly distinguish micro-level interpersonal contact from the broader hostile environment around them, and they illuminate two processes that help explain why positive contact matters: decategorization, being seen as an individual rather than "the immigrant," and recategorization, coming to share a civic "we" with natives.
 
+<div class="dissertation-interview-themes">
+  <section class="dissertation-interview-theme">
+    <h3>Contact and Context</h3>
+    <p class="dissertation-interview-theme__summary">Immigrants distinguish interpersonal relationships with natives from the broader hostile society around them.</p>
+    <div class="dissertation-quote-grid">
+      <blockquote class="dissertation-quote-card">
+        <p>"The people around me are the same, so they didn't change, but only in the media we see it."</p>
+        <cite>Lina (Syrian woman), Germany</cite>
+      </blockquote>
+      <blockquote class="dissertation-quote-card">
+        <p>"From people, I didn't experience anything bad. But if I follow the news, I see people are more and more in the right mindset, which means less immigrants."</p>
+        <cite>Sinan (Turkish man), Belgium</cite>
+      </blockquote>
+      <blockquote class="dissertation-quote-card">
+        <p>"Someone came up to me, very aggressive, and started shouting at me. I said, 'It's not my business, I didn't do anything.' Then I felt that politicians were blaming newcomers."</p>
+        <cite>Tarek (Syrian man), Belgium</cite>
+      </blockquote>
+    </div>
+  </section>
+
+  <section class="dissertation-interview-theme">
+    <h3>Recognition-Based Contact</h3>
+    <p class="dissertation-interview-theme__summary">Immigrants describe positive contact as recognition- or appreciation-based interaction, not merely polite or friendly exchange; superficial warmth can still feel exclusionary when it reproduces stigma or unequal standing.</p>
+    <div class="dissertation-quote-grid">
+      <blockquote class="dissertation-quote-card">
+        <p></p>
+        <cite></cite>
+      </blockquote>
+      <blockquote class="dissertation-quote-card">
+        <p>"My colleagues accepted that I was different, with a different language and culture. I felt respected, and they did not make me feel like I did not know something."</p>
+        <cite>Hala (Syrian woman), Germany</cite>
+      </blockquote>
+      <blockquote class="dissertation-quote-card">
+        <p>"They do even worse by trying to do something good. They tell me, 'But you're one of the good ones.' It is discriminating."</p>
+        <cite>Anas (Syrian man), Belgium</cite>
+      </blockquote>
+    </div>
+  </section>
+
+  <section class="dissertation-interview-theme">
+    <h3>Decategorization and Recategorization</h3>
+    <p class="dissertation-interview-theme__summary">Positive contact works through two identity shifts: being seen as an individual rather than as "the immigrant," and coming to share a civic "we" with natives.</p>
+    <div class="dissertation-quote-grid">
+      <blockquote class="dissertation-quote-card">
+        <p>"If I feel connected to Germans, then why shouldn't I feel connected to Germany?"</p>
+        <cite>Selin (Turkish woman), Germany</cite>
+      </blockquote>
+      <blockquote class="dissertation-quote-card">
+        <p>"I never heard anything like, 'Oh, you're a refugee, so if I were you, I would do this or that.' To be honest, it was the opposite sometimes — I used to think, 'Hey, could you please treat me like a refugee for once?' Because they treated me all the time just like a normal guy."</p>
+        <cite>Faris (Syrian man), Germany</cite>
+      </blockquote>
+      <blockquote class="dissertation-quote-card">
+        <p>"I saw her as the typical Belgian person. But when we talked, I saw how similar we were in social life and the way we think. That barrier was kind of gone at that point. It made a very big change in my head of how I see the country."</p>
+        <cite>Anas (Syrian man), Belgium</cite>
+      </blockquote>
+    </div>
+  </section>
+
+  <section class="dissertation-interview-theme">
+    <h3>Political Integration Does Not Move Together</h3>
+    <p class="dissertation-interview-theme__summary">Belonging, trust, efficacy, and interest do not always rise or fall as one package; immigrants can be politically attentive while still feeling distant from the political community.</p>
+    <div class="dissertation-quote-grid">
+      <blockquote class="dissertation-quote-card">
+        <p>"I have an opinion of how Germany governs itself... but I do not feel myself rightful to express my opinion. It's their country. It's their right to do things."</p>
+        <cite>Deniz (Turkish man), Germany</cite>
+      </blockquote>
+      <blockquote class="dissertation-quote-card">
+        <p>"I really trust here; there's a system working and I trust the system. But I don't belong here. I would consider myself politically integrated but not culturally."</p>
+        <cite>Burak (Turkish man), Belgium</cite>
+      </blockquote>
+      <blockquote class="dissertation-quote-card">
+        <p>"In Syria I was very shy. When I came here I feel like I'm a person with a value. I also know my rights. But no, I don't trust politicians."</p>
+        <cite>Rasha (Syrian woman), Belgium</cite>
+      </blockquote>
+    </div>
+  </section>
+</div>
+
 The final empirical chapter tests the causal effect of positive interpersonal contact on immigrant political integration through a chat-based survey experiment with first-generation non-EU immigrants in Belgium and Germany.
 
 Participants are randomly assigned to one of three conditions: a positive recognition-based interaction, a neutral transactional interaction, or a no-interaction control. Through a structured chat interface, the design isolates whether positive contact raises political integration and whether it does so by increasing recognition and a sense of shared civic identity.
