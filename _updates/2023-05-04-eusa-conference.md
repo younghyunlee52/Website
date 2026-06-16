@@ -8,6 +8,6 @@ image_alt:
 caption:
 ---
 
-At the 2023 European Union Studies Association (EUSA) Conference, I presented my co-authored paper with Ethan Vander Wilden from the University of Wisconsin-Madison, titled *"Sharing Discourse: Transnational Party Communication on Twitter in Europe,"* as part of the session "6F Party Positioning and Communication in the New Europe." We greatly appreciated the insightful feedback from our discussants, William Daniel and Bjorn Hoyland.
+At the European Union Studies Association (EUSA) Conference, I presented Sharing Discourse: Transnational Party Communication on Twitter in Europe (with Ethan Vander Wilden, UW–Madison), with feedback from discussants William Daniel and Bjørn Høyland.
 
 More information about the conference can be found [here](https://www.eustudies.org/conference/).

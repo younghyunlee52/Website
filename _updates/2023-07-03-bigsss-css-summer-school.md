@@ -8,6 +8,6 @@ image_alt:
 caption:
 ---
 
-I participated in The [Bremen International Graduate School of Social Sciences](https://www.bigsss-bremen.de/)-Computational Social Science (BIGSSS-CSS Summer) School on Democratic Debate. I was also part of the project team titled *'Ethnic and Sexual Minority Representation in Parliamentary Speeches: A Comparative Analysis of the United States and Germany from 1945 to the Present'*. The Summer School was funded by a grant from the [VolkswagenStiftung](https://www.volkswagenstiftung.de/) and my travel to Bremen was funded by German Academic Exchange Service (DAAD) Scholarship.
+I was selected to participate in the Bremen International Graduate School of Social Sciences (BIGSSS) Computational Social Science Summer School on Democratic Debate, where I joined a collaborative project that later resulted in the chapter [“Linguistic Polarization in Minority Representation: Analyzing Parliamentary Speeches in Germany and the UK (1980-2021)”](https://link.springer.com/chapter/10.1007/978-3-032-01373-6_7). My participation was supported by a German Academic Exchange Service (DAAD) scholarship.
 
 More information about the summer school can be found [here](https://wedsss.janlo.de/).

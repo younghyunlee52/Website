@@ -8,6 +8,6 @@ image_alt:
 caption:
 ---
 
-At the International European Social Survey (ESS) conference, I presented my co-authored paper with Dr. Sanghoon Kim-Leffingwell from the University of North Texas, USA, titled *"Reactivity of Voters With an Immigration Background to Discourses of Immigration Policies"* under the session "Studying Immigrants Using the ESS: Methodological Challenges, Empirical Consequences."
+At the International European Social Survey (ESS) Conference, I presented my co-authored paper with Sanghoon Kim-Leffingwell (University of North Texas), *Reactivity of Voters with an Immigration Background to Discourses of Immigration Policies*, in a panel on studying immigrants with ESS data.
 
 More information about the conference and its agenda can be found [here](https://www.europeansocialsurvey.org/about/conference/).
