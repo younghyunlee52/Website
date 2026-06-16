@@ -13,7 +13,7 @@ My research sits at the intersection of political behavior, intergroup relations
 
 ## Peer-Reviewed Articles
 
-<ol class="research-publications">
+<ol class="research-publications" reversed start="3">
   <li>
     <div class="research-publication-entry">
       <p class="research-publication-entry__title"><span class="research-publication-entry__title-main">What Can Dual Citizens Teach Us about Political Engagement?</span> <span class="research-publication-entry__coauthor">(with Seyoung Jung and Cara Wong)</span></p>
@@ -36,7 +36,7 @@ My research sits at the intersection of political behavior, intergroup relations
 
 ## Book Chapters
 
-<ol class="research-publications">
+<ol class="research-publications" reversed start="1">
   <li>
     <div class="research-publication-entry">
       <p class="research-publication-entry__title"><span class="research-publication-entry__title-main">Linguistic Polarization in Minority Representation: Analyzing Parliamentary Speeches in Germany and the UK (1980-2021).</span> <span class="research-publication-entry__coauthor">(with Florencia Pineyrua, Christian Czymara, and Max Weber)</span></p>
