@@ -14,13 +14,13 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* System typefaces */
-$serif                      : "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
-$sans-serif                 : "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
+$serif                      : "Helvetica Neue", Helvetica, Arial, sans-serif;
+$sans-serif                 : "Helvetica Neue", Helvetica, Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* Sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
-$helvetica                  : "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
+$helvetica                  : "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 /* Serif typefaces */
 $georgia                    : Georgia, serif;
