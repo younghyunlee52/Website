@@ -217,6 +217,31 @@
   }
 }
 
+@media (max-width: 767px) {
+  .homepage-intro {
+    gap: 1.35rem;
+    justify-items: center;
+  }
+
+  .homepage-intro__photo {
+    width: 100%;
+    align-items: center;
+  }
+
+  .homepage-intro__photo img {
+    max-width: 200px;
+  }
+
+  .homepage-intro__content {
+    width: 100%;
+  }
+
+  .homepage-intro__name,
+  .homepage-intro__welcome {
+    text-align: left;
+  }
+}
+
 .pub-link {
   display: inline-block;
   margin-left: 0.25rem;

@@ -8,7 +8,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my CV [here](/files/cv.pdf?v=20260615).
+You can download my CV [here](/files/cv.pdf?v=20260615).
 
 <div style="margin-top: 1.25rem;">
   <iframe
