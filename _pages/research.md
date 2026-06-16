@@ -15,7 +15,7 @@ My research sits at the intersection of political behavior, intergroup relations
 
 <ol class="research-publications">
   <li><a class="research-title-link" href="https://doi.org/10.1017/psrm.2025.10053" target="_blank" rel="noopener noreferrer">What Can Dual Citizens Teach Us about Political Engagement?</a> (with Seyoung Jung and Cara Wong). 2025. <em>Political Science Research and Methods</em>.</li>
-  <li><a class="research-title-link" href="https://doi.org/10.1080/1369183X.2025.2589904" target="_blank" rel="noopener noreferrer">Engaged but targeted? How immigrants vote against anti-immigrant agendas in Europe.</a> (with Sanghoon Kim-Leffingwell). 2025. <em>Journal of Ethnic and Migration Studies</em>.</li>
+  <li><a class="research-title-link" href="https://doi.org/10.1080/1369183X.2025.2589904" target="_blank" rel="noopener noreferrer">Engaged but Targeted? How Immigrants Vote Against Anti-Immigrant Agendas in Europe.</a> (with Sanghoon Kim-Leffingwell). 2025. <em>Journal of Ethnic and Migration Studies</em>.</li>
   <li><a class="research-title-link" href="https://doi.org/10.18109/jeus.2019..53.3" target="_blank" rel="noopener noreferrer">Divergent Paths of Integration in the Post-Multicultural Era: Interculturalism in Spain and Civic Integration in France.</a> (with Nam-Kook Kim). 2019. <em>Journal of European Union Studies</em> 53: 3-48.</li>
 </ol>
 
