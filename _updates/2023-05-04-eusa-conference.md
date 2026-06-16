@@ -8,6 +8,6 @@ image_alt:
 caption:
 ---
 
-At the European Union Studies Association (EUSA) Conference, I presented Sharing Discourse: Transnational Party Communication on Twitter in Europe (with Ethan Vander Wilden, UW–Madison), with feedback from discussants William Daniel and Bjørn Høyland.
+At the European Union Studies Association (EUSA) Conference, I presented *Sharing Discourse: Transnational Party Communication on Twitter in Europe* (with Ethan Vander Wilden, UW–Madison), with feedback from discussants William Daniel and Bjørn Høyland.
 
 More information about the conference can be found [here](https://www.eustudies.org/conference/).
