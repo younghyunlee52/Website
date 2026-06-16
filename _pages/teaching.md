@@ -7,10 +7,6 @@ show_title: false
 page_class: teaching-page
 ---
 
-## Teaching Interests
-Migration and Citizenship, Race and Ethnic Politics, European Politics / EU Politics, Comparative Politics, Research Methods, Survey Research, Mixed Method
-
-
 ## Instructor
 
 * PS385: Politics of the European Union, Summer 2024, University of Illinois
