@@ -28,4 +28,6 @@ in Fall 2024 and at the
 [Mannheim Centre for European Social Research (MZES)](https://www.mzes.uni-mannheim.de/d7/en)
 in May 2025. I hold an
 M.A. in Political Science and a B.A. in French Literature and International
-Studies, both from Korea University. You can find my CV [here](/cv/).
+Studies, both from Korea University. 
+
+You can find my CV [here](/cv/).
