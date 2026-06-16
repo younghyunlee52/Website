@@ -96,7 +96,7 @@
 }
 
 .homepage-page .page__content p {
-  text-align: left;
+  text-align: left !important;
   text-justify: auto;
 }
 
@@ -253,6 +253,10 @@
   .homepage-intro__name {
     text-align: center;
     margin-bottom: 0.4rem;
+  }
+
+  .homepage-intro__affiliation-line {
+    text-align: center;
   }
 
   .homepage-intro__welcome {
@@ -590,6 +594,8 @@
 .dissertation-page .page__content > h2 {
   margin-top: 2.4rem;
   margin-bottom: 1rem;
+  color: var(--dissertation-navy);
+  font-weight: 700;
 }
 
 .dissertation-page .page__content > h2:first-of-type {
@@ -631,7 +637,7 @@
   font-weight: 700;
   letter-spacing: 0.04em;
   text-transform: uppercase;
-  color: var(--dissertation-navy);
+  color: #C84113;
 }
 
 .dissertation-meta__item p {
@@ -693,7 +699,7 @@
   font-weight: 700;
   letter-spacing: 0.05em;
   text-transform: uppercase;
-  color: var(--dissertation-navy);
+  color: #C84113;
 }
 
 .dissertation-interview-theme__summary {
