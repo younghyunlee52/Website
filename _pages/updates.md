@@ -31,7 +31,6 @@ page_class: updates-page
         {% endif %}
       </div>
     {% endif %}
-
     <div class="update-entry__body">
       <h3 class="update-entry__title">{{ update.title }}</h3>
       <p class="update-entry__meta">
