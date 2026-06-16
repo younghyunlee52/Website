@@ -6,6 +6,7 @@
  *
  * Note that the files are processed in the order they are imported, so they are partly
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ * Touching this file forces Jekyll/Sass to rebuild the compiled stylesheet again.
  */
 
 @import

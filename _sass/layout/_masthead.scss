@@ -68,15 +68,15 @@
 }
 
 .masthead__menu-item.selected a {
-  color: var(--global-link-color);
+  color: #13294B;
   font-weight: 700;
-  border-bottom: 2px solid var(--global-link-color);
+  border-bottom: 2px solid #13294B;
   pointer-events: none; /* Move this here */
   cursor: default; /* Move this here too */
 }
 
 .masthead__menu-item.selected a:hover {
-  color: var(--global-link-color);
-  border-bottom: 2px solid var(--global-link-color);
+  color: #13294B;
+  border-bottom: 2px solid #13294B;
   /* No need to repeat pointer-events and cursor here */
 }

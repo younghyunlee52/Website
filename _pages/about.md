@@ -21,13 +21,14 @@ redirect_from:
   </div>
   <div class="homepage-intro__content">
     <h1 class="homepage-intro__name">Younghyun Lee</h1>
+    <p class="homepage-intro__affiliation-line">University of Illinois, Urbana-Champaign</p>
 
     <p class="homepage-intro__welcome"><strong>Welcome!</strong></p>
 
-    <p>I am a Ph.D. candidate in the Department of Political Science at the <a href="https://pol.illinois.edu">University of Illinois, Urbana-Champaign</a>. I will be <span class="job-market-note">on the job market in the 2026-2027 academic year</span>.</p>
+    <p>I am a Ph.D. candidate in the Department of Political Science at the <a class="homepage-accent-link" href="https://pol.illinois.edu">University of Illinois, Urbana-Champaign</a>. I will be <span class="job-market-note">on the job market in the 2026-2027 academic year</span>.</p>
 
     <p>My research focuses on the political behaviors and attitudes of immigrants and minorities in developed democracies, situating my work at the intersection of comparative political behavior, political psychology, and identity politics. My dissertation explores how intergroup relations between natives and immigrants shape immigrants' political integration in the context of anti-immigrant sentiment in Belgium and Germany. My work has been published in <em>Political Science Research and Methods</em> and the <em>Journal of Ethnic and Migration Studies</em>.</p>
 
-    <p>I was a doctoral visiting fellow at the <a href="https://www.irimmigration.org/younghyun-lee/">Immigration Research Initiative (IRI)</a> in Fall 2024 and at the <a href="https://www.mzes.uni-mannheim.de/d7/en">Mannheim Centre for European Social Research (MZES)</a> in May 2025. I hold an M.A. in Political Science and a B.A. in French Literature and International Studies, both from <a href="https://www.korea.edu/sites/en/index.do">Korea University</a>.</p>
+    <p>I was a doctoral visiting fellow at the <a class="homepage-accent-link" href="https://www.irimmigration.org/younghyun-lee/">Immigration Research Initiative (IRI)</a> in Fall 2024 and at the <a class="homepage-accent-link" href="https://www.mzes.uni-mannheim.de/d7/en">Mannheim Centre for European Social Research (MZES)</a> in May 2025. I hold an M.A. in Political Science and a B.A. in French Literature and International Studies, both from <a href="https://www.korea.edu/sites/en/index.do">Korea University</a>.</p>
   </div>
 </section>
