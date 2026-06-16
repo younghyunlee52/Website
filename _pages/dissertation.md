@@ -23,15 +23,15 @@ My dissertation develops a minority-centered perspective on intergroup contact, 
 <div class="dissertation-meta">
   <div class="dissertation-meta__item">
     <span class="dissertation-meta__label">Empirical Chapter I</span>
-    <p>Regional survey analysis using SOEP, district-level hostility measures, and matching to assess how contact and context jointly explain political integration in Germany.</p>
+    <p>Regional survey analysis linking SOEP respondents to district-level hostility measures to examine how contact and context relate to political integration in Germany.</p>
   </div>
   <div class="dissertation-meta__item">
     <span class="dissertation-meta__label">Empirical Chapter II</span>
-    <p>Interviews with first-generation Syrian and Turkish immigrants in Belgium and Germany to trace how contact, hostility, and identity shifts are understood in everyday life.</p>
+    <p>Interviews with Syrian and Turkish immigrants in Belgium and Germany tracing how contact, hostility, and identity shifts are interpreted in everyday life.</p>
   </div>
   <div class="dissertation-meta__item">
     <span class="dissertation-meta__label">Empirical Chapter III</span>
-    <p>The final empirical chapter provides the causal test through a chat-based survey experiment, currently in the field, that varies whether participants experience recognition-based or neutral interpersonal contact.</p>
+    <p>Chat-based survey experiment with immigrants in Belgium and Germany that tests whether recognition-based contact causally increases political integration.</p>
   </div>
 </div>
 
@@ -56,7 +56,7 @@ Positive contact with natives is most strongly associated with political integra
 
 ## What Immigrants Say
 
-Based on 35 interviews with first-generation Syrian and Turkish immigrants in Belgium and Germany, this chapter explores how immigrants themselves understand contact with natives and political integration. All names are pseudonyms.
+Selected findings from 35 interviews with first-generation Syrian and Turkish immigrants in Belgium and Germany. Names are pseudonyms.
 <div class="dissertation-interview-themes">
   <section class="dissertation-interview-theme">
     <h3>Positive Contact Is Recognition- or Appreciation-Based Interaction</h3>
@@ -66,8 +66,8 @@ Based on 35 interviews with first-generation Syrian and Turkish immigrants in Be
         <cite>Hala (Syrian woman), Germany</cite>
       </blockquote>
       <blockquote class="dissertation-quote-card">
-        <p>"They do even worse by trying to do something good. They tell me, 'But you're one of the good ones.' It is discriminating."</p>
-        <cite>Anas (Syrian man), Belgium</cite>
+        <p>"Mostly we can say positive, but it's quite limited. We are in a safe environment; there's no space to harm each other. But with Belgians, I never go to that deep relationship. Mostly, it's on the surface level."</p>
+        <cite>Sinan (Turkish man), Belgium</cite>
       </blockquote>
     </div>
   </section>
@@ -80,22 +80,8 @@ Based on 35 interviews with first-generation Syrian and Turkish immigrants in Be
         <cite>Selin (Turkish woman), Germany</cite>
       </blockquote>
       <blockquote class="dissertation-quote-card">
-        <p>"I never heard anything like, 'Oh, you're a refugee, so if I were you, I would do this or that.' To be honest, it was the opposite sometimes. I used to think, 'Hey, could you please treat me like a refugee for once?'"</p>
-        <cite>Faris (Syrian man), Germany</cite>
-      </blockquote>
-    </div>
-  </section>
-
-  <section class="dissertation-interview-theme">
-    <h3>Political Integration Has Multiple Dimensions</h3>
-    <div class="dissertation-quote-grid">
-      <blockquote class="dissertation-quote-card">
-        <p>"I really trust here; there's a system working and I trust the system. But I don't belong here. I would consider myself politically integrated but not culturally."</p>
-        <cite>Burak (Turkish man), Belgium</cite>
-      </blockquote>
-      <blockquote class="dissertation-quote-card">
-        <p>"In Syria I was very shy. When I came here I feel like I'm a person with a value. I also know my rights. But no, I don't trust politicians."</p>
-        <cite>Rasha (Syrian woman), Belgium</cite>
+        <p>"I saw her as the typical Belgian person. But when we talked, I saw how similar we were in social life and the way we think. That barrier was kind of gone at that point. It made a very big change in my head of how I see the country."</p>
+        <cite>Anas (Syrian man), Belgium</cite>
       </blockquote>
     </div>
   </section>
