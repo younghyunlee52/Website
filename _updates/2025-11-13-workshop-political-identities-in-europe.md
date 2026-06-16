@@ -1,5 +1,5 @@
 ---
-title: "Workshop Political Identities in Europe"
+title: "Political Identities in Europe Workshop"
 date: 2025-11-13
 display_date: "November 13-14, 2025"
 location: "Amsterdam, Netherlands"

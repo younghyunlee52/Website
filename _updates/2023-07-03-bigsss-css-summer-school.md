@@ -1,5 +1,5 @@
 ---
-title: "The BIGSSS-CSS Summer School"
+title: "2023 BIGSSS-CSS Summer School"
 date: 2023-07-03
 display_date: "July 3-12, 2023"
 location: "Bremen, Germany"

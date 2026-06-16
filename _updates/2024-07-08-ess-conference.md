@@ -1,5 +1,5 @@
 ---
-title: "The 5th ESS Conference"
+title: "2024 ESS Conference"
 date: 2024-07-08
 display_date: "July 8-10, 2024"
 location: "Lisbon, Portugal"

@@ -1,5 +1,5 @@
 ---
-title: "MZES Visiting Fellowship for PhD Students"
+title: "MZES Visiting Fellowship"
 date: 2025-05-01
 display_date: "May, 2025"
 location: "Mannheim, Germany"

@@ -1,5 +1,5 @@
 ---
-title: "IRI Visiting Doctoral Fellowship"
+title: "IRI Visiting Fellowship"
 date: 2024-11-26
 display_date: "August-November 2024"
 location: "Montreal, Canada"
