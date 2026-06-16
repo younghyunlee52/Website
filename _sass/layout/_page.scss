@@ -274,9 +274,11 @@
   text-decoration: none !important;
 }
 
-.research-page .page__content > h2 {
+.research-page .page__content > h2,
+.teaching-page .page__content > h2 {
   margin-top: 2.75rem;
   margin-bottom: 1rem;
+  font-weight: 700;
 }
 
 .research-page .page__content > h2:first-child {
