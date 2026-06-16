@@ -96,6 +96,7 @@
 }
 
 .homepage-page .page__content p {
+  font-size: 1rem;
   text-align: left !important;
   text-justify: auto;
 }
@@ -145,6 +146,10 @@
 
 .homepage-intro__content {
   max-width: none;
+}
+
+.homepage-intro__identity {
+  display: inline-block;
 }
 
 .homepage-intro__name {
@@ -349,7 +354,7 @@
 
 .research-page .research-publication-entry__title-main {
   color: #2F2F2F;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .research-page .research-publication-entry__coauthor {
@@ -481,7 +486,7 @@
 }
 
 .research-page .research-entry__title-main {
-  font-weight: 400;
+  font-weight: 500;
 }
 
 .research-page .research-entry__coauthor {

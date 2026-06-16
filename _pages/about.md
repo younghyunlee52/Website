@@ -20,8 +20,10 @@ redirect_from:
     </div>
   </div>
   <div class="homepage-intro__content">
-    <h1 class="homepage-intro__name">Younghyun Lee</h1>
-    <p class="homepage-intro__affiliation-line">University of Illinois, Urbana-Champaign</p>
+    <div class="homepage-intro__identity">
+      <h1 class="homepage-intro__name">Younghyun Lee</h1>
+      <p class="homepage-intro__affiliation-line">University of Illinois, Urbana-Champaign</p>
+    </div>
 
     <p class="homepage-intro__welcome"><strong>Welcome!</strong></p>
 
