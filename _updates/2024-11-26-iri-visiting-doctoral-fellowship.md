@@ -1,7 +1,7 @@
 ---
 title: "IRI Visiting Doctoral Fellowship"
 date: 2024-11-26
-display_date: "November 26, 2024"
+display_date: "August-November 2024"
 location: "Montreal, Canada"
 image: /images/updates/20241023.png
 image_alt:
