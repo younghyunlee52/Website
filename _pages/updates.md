@@ -14,7 +14,7 @@ page_class: updates-page
   {% assign update_year = update.date | date: "%Y" %}
   {% if update_year != current_year %}
     {% assign current_year = update_year %}
-    <h2 class="updates-page__year">{{ current_year }}</h2>
+<h2 class="updates-page__year">{{ current_year }}</h2>
   {% endif %}
 
   <article class="update-entry{% if update.image %} update-entry--with-media{% endif %}">
