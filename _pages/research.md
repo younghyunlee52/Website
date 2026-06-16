@@ -49,7 +49,6 @@ I focus on how intergroup relations and political context shape the attitudes an
       <p class="research-entry__title">"Cross-Ethnic Engagement and Political Integration of First-Generation Immigrants in Quebec."</p>
       <p class="research-entry__meta"><strong> with Antoine Bilodeau </strong></p>
       <p class="research-entry__abstract"><strong>Abstract.</strong> Using a survey conducted in 2019, this paper analyzes immigrants in the province of Quebec and shows that engaging in political activities with non-co-ethnic individuals fosters immigrant political integration by exposing immigrants to diverse perspectives, promoting a broader civic identity, and enhancing feelings of belonging and trust in the host society.</p>
-      <p class="research-entry__presented"><strong>Presented at</strong> MPSA 2025 (Chicago).</p>
     </div>
   </li>
   <li>
@@ -57,14 +56,12 @@ I focus on how intergroup relations and political context shape the attitudes an
       <p class="research-entry__title">"Is Six Degrees of Separation Five Too Many? The Limits of Indirect Contact."</p>
       <p class="research-entry__meta"><strong> with Cara Wong </strong></p>
       <p class="research-entry__abstract"><strong>Abstract.</strong> Intergroup interaction can reduce prejudice, but practical constraints limit direct contact, leading researchers to study indirect contact, such as knowing someone who knows an outgroup member. While social psychology meta-analyses suggest that indirect contact influences attitudes, political science research on military conscription questions its impact on political attitudes and behavior. This raises normative concerns about segregation and the need to understand why brief outgroup contact can be meaningful while long-term coexistence may have little effect.</p>
-      <p class="research-entry__presented"><strong>Presented at</strong> Diversity and the Bounds of Solidarity: Barriers and Expectations in Public Opinion Workshop 2024 (Montreal); APSA 2025 (Vancouver).</p>
     </div>
   </li>
   <li>
     <div class="research-entry">
       <p class="research-entry__title">"Well-Integrated Immigrants Without a Sense of Belonging? Revisiting Integration Paradox and Successful Integration in Western Europe."</p>
       <p class="research-entry__abstract"><strong>Abstract.</strong> This study examines the relationship between immigrants' economic integration and their sense of belonging in European host societies. Using the 2018 European Social Survey, I employ a three-step analytical approach to demonstrate the absence of a significant effect of economic integration on immigrants' sense of belonging.</p>
-      <p class="research-entry__presented"><strong>Presented at</strong> MPSA 2022 (Chicago); WISE 2022 (Saint Louis); PRIEC 2023 (Texas).</p>
     </div>
   </li>
 
@@ -85,7 +82,6 @@ I focus on how intergroup relations and political context shape the attitudes an
       <p class="research-entry__title">"Alleging Electoral Fraud in Advanced Democracies: When Do Losers Defy Electoral Outcomes?"</p>
       <p class="research-entry__meta"> <strong> with Jonghoon Lee </strong></p>
       <p class="research-entry__abstract"><strong>Abstract.</strong> Democratic stability rests on losers' consent, in which losing candidates concede defeat and accept election results. In advanced democracies, outright refusals to accept electoral loss have been rare. However, recent high-profile cases have seen defeated candidates allege electoral fraud instead of a clean concession. These claims, often unsubstantiated, pose risks to public trust and democratic legitimacy. Why would politicians in established democracies resort to such tactics? Existing explanations point to factors like polarization, populist anti-elite rhetoric, or shock from unexpected defeat. This research expands the theoretical framework by focusing on intraparty politics as a key driver. Candidates with precarious standing inside their own party may have strong personal incentives to cry fraud after a loss, in order to shift blame, mobilize loyal supporters, and protect their political futures. We outline this extended theory with illustrative examples, propose empirical strategies to test it using a cross-national dataset and comparative case studies, and assess implications for democratic resilience. The project contributes to the study of electoral legitimacy, party politics, and strategic misinformation in democracies under pressure.</p>
-      <p class="research-entry__presented"><strong>Presented at</strong> MPSA 2026 (Chicago); <strong>Will be presented at</strong> APSA 2026 (Boston).</p>
     </div>
   </li>
 </ol>
