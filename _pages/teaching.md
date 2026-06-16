@@ -7,6 +7,9 @@ show_title: false
 page_class: teaching-page
 ---
 
+## Teaching
+Migration and Citizenship, Race and Ethnic Politics, European Politics / EU Politics, Comparative Politics, Research Methods, Survey Research, Mixed Method
+
 
 ## Instructor
 
