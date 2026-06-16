@@ -8,4 +8,4 @@ image_alt:
 caption:
 ---
 
-I presented my dissertation project at the McGill Political Behavior Workshop and received feedback from faculty and graduate students in the Department of Political Science at McGill University. I thank Professor Colin Scott (Concordia University) for arranging the presentation and Professor Dietlind Stolle (McGill University) for organizing the workshop.
+While in Montreal, I was invited to present my dissertation project at the McGill Political Behavior Workshop, where I received feedback from faculty and graduate students in McGill's Department of Political Science. I thank Colin Scott (Concordia) for arranging the talk and Dietlind Stolle (McGill) for hosting the workshop.
