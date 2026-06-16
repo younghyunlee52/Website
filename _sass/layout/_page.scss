@@ -181,6 +181,7 @@
 .homepage-intro__welcome {
   margin: 2.9rem 0 1.3rem;
   color: #000;
+  font-weight: 400;
 }
 
 .homepage-intro__affiliation--compact {
@@ -302,7 +303,7 @@
   margin-top: 2.75rem;
   margin-bottom: 1rem;
   color: #13294B;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .research-page .page__content > h2:first-child {
@@ -348,11 +349,11 @@
 
 .research-page .research-publication-entry__title-main {
   color: #2F2F2F;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 .research-page .research-publication-entry__coauthor {
-  color: #2F2F2F;
+  color: #6f6f6f;
   font-size: 0.95em;
   font-weight: 400;
 }
@@ -484,7 +485,7 @@
 }
 
 .research-page .research-entry__coauthor {
-  color: #2F2F2F;
+  color: #6f6f6f;
   font-size: 0.95em;
   font-weight: 400;
 }
@@ -595,7 +596,7 @@
   margin-top: 2.4rem;
   margin-bottom: 1rem;
   color: var(--dissertation-navy);
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .dissertation-page .page__content > h2:first-of-type {
@@ -696,9 +697,7 @@
 .dissertation-interview-theme h3 {
   margin: 0 0 0.35rem;
   font-size: 0.9em;
-  font-weight: 700;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
+  font-weight: 600;
   color: #C84113;
 }
 
@@ -774,6 +773,7 @@
   margin-top: 0.5rem;
   margin-bottom: 1rem;
   font-size: 1.5em;
+  font-weight: 600;
 }
 
 .update-entry {
@@ -818,7 +818,7 @@
 .update-entry__title {
   font-family: $header-font-family;
   font-size: 1.05em;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .update-entry__meta {
