@@ -80,6 +80,80 @@
   font-weight: 600;
 }
 
+.homepage-name {
+  margin: 0 0 0.45rem;
+  font-size: 2.25rem;
+  font-weight: 700;
+  line-height: 1.05;
+}
+
+.homepage-page .page__content {
+  text-align: left;
+}
+
+.homepage-page .page__content p {
+  text-align: left;
+  text-justify: auto;
+}
+
+.homepage-intro {
+  display: grid;
+  gap: 1.75rem;
+  align-items: start;
+
+  @include breakpoint($medium) {
+    grid-template-columns: minmax(200px, 240px) minmax(0, 1fr);
+    gap: 2rem;
+  }
+}
+
+.homepage-intro__photo img {
+  display: block;
+  width: 100%;
+  max-width: 240px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 0;
+}
+
+.homepage-intro__content {
+  max-width: 44rem;
+}
+
+.homepage-intro__name {
+  margin: 0 0 0.3rem;
+  color: #13294B;
+  font-size: 2.45rem;
+  font-weight: 700;
+  line-height: 1.05;
+}
+
+.homepage-intro__affiliation {
+  margin: 0 0 0.55rem;
+  color: var(--global-text-color-light);
+  font-size: 1rem;
+  line-height: 1.45;
+}
+
+.homepage-intro__links {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  margin: 0 0 1.1rem;
+
+  a {
+    color: var(--global-text-color-light);
+    font-size: 1.05rem;
+    text-decoration: none !important;
+  }
+
+  a:hover {
+    color: #13294B;
+    text-decoration: none !important;
+  }
+}
+
 .pub-link {
   display: inline-block;
   margin-left: 0.25rem;
