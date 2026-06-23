@@ -9,11 +9,7 @@ page_class: research-page
 
 ## Research Agenda
 
-My research sits at the intersection of <span style="color: #C84113; font-weight: 700;">political behavior</span>, <span style="color: #C84113; font-weight: 700;">intergroup relations</span>, and <span style="color: #C84113; font-weight: 700;">immigrant integration</span>. Specifically, I explore three main areas:
-
-1. how <span style="color: #13294B; font-weight: 700;">intergroup relations</span> and boundary making influence <span style="color: #13294B; font-weight: 700;">immigrants' political attitudes</span> and behaviors in host societies;
-2. how <span style="color: #13294B; font-weight: 700;">immigrants engage with democratic politics</span> and respond to political opportunities and constraints;
-3. how <span style="color: #13294B; font-weight: 700;">political context, party competition, and social discourses</span> construct the legitimacy of groups within the political community.
+My research sits at the intersection of <span style="color: #C84113; font-weight: 700;">political behavior</span>, <span style="color: #C84113; font-weight: 700;">intergroup relations</span>, and <span style="color: #C84113; font-weight: 700;">immigrant integration</span>. Specifically, I explore three main areas: (1) how <span style="color: #13294B; font-weight: 700;">intergroup relations</span> and boundary making influence <span style="color: #13294B; font-weight: 700;">immigrants' political attitudes</span> and behaviors in host societies; (2) how <span style="color: #13294B; font-weight: 700;">immigrants engage with democratic politics</span> and respond to political opportunities and constraints; (3) how <span style="color: #13294B; font-weight: 700;">political context, party competition, and social discourses</span> construct the legitimacy of groups within the political community.
 
 ## Peer-Reviewed Articles
 
