@@ -14,7 +14,7 @@ page_class: dissertation-page
 </div>
 
 
-My dissertation develops a minority-centered perspective on intergroup contact, focusing on how immigrants themselves experience and navigate interactions with natives. I argue (1) that contact with natives shapes immigrants' political integration, but its effect depends on the surrounding climate and (2) that it works by changing how immigrants see themselves. Here, political integration refers to immigrants' political trust, interest, efficacy, and sense of belonging.
+My dissertation develops <span style="color: #C84113;">a minority-centered perspective on intergroup contact</span>, focusing on how immigrants themselves experience and navigate interactions with natives. I argue (1) that contact with natives shapes immigrants' political integration, but its effect depends on the surrounding climate and (2) that it works by changing how immigrants see themselves. Here, political integration refers to immigrants' political trust, interest, efficacy, and sense of belonging.
 
 <figure class="dissertation-figure dissertation-figure--theory">
   <img src="/images/dissertation/theory.jpg" alt="Conceptual framework showing how contact with natives is related to political integration through identity shift, conditioned by contextual hostility.">
