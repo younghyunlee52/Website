@@ -304,7 +304,8 @@
 }
 
 .research-page .page__content > h2,
-.teaching-page .page__content > h2 {
+.teaching-page .page__content > h2,
+.dissertation-page .page__content > h2 {
   margin-top: 2.75rem;
   margin-bottom: 1rem;
   color: #13294B;
@@ -347,7 +348,8 @@
   margin: 0;
 }
 
-.research-page .research-publication-entry__title {
+.research-page .research-publication-entry__title,
+.research-page .research-entry__title {
   font-size: 1.05em;
   line-height: 1.14;
 }
@@ -357,13 +359,15 @@
   font-weight: 600;
 }
 
-.research-page .research-publication-entry__coauthor {
+.research-page .research-publication-entry__coauthor,
+.research-page .research-entry__coauthor {
   color: #6f6f6f;
   font-size: 0.95em;
   font-weight: 400;
 }
 
-.research-page .research-publication-entry__meta {
+.research-page .research-publication-entry__meta,
+.research-page .research-entry__meta {
   margin-top: 0.18rem;
   color: #000;
   font-size: 1em;
@@ -475,30 +479,18 @@
   text-justify: auto;
 }
 
-.research-page .research-entry__title {
-  font-family: $header-font-family;
-  font-size: 1.05em;
-  line-height: 1.14;
-}
-
 .research-page .research-entry__details--inline {
   margin-left: 0.28rem;
 }
 
+.research-page .research-publication-entry__title-main,
 .research-page .research-entry__title-main {
-  font-weight: 500;
+  color: #2F2F2F;
+  font-weight: 600;
 }
 
-.research-page .research-entry__coauthor {
-  color: #6f6f6f;
-  font-size: 0.95em;
+.research-page .research-entry__title-main {
   font-weight: 400;
-}
-
-.research-page .research-entry__meta {
-  margin-top: 0.3rem;
-  color: var(--global-text-color-light);
-  font-size: 0.9em;
 }
 
 .research-page .research-entry__abstract {
@@ -524,10 +516,8 @@
 
 .dissertation-page .page__content,
 .dissertation-page .page__content p,
-.dissertation-page .page__content li,
-.dissertation-page .page__content h2,
-.dissertation-page .page__content h3 {
-  font-family: "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
+.dissertation-page .page__content li {
+  font-family: $sans-serif;
 }
 
 .dissertation-page .page__content p,
@@ -550,7 +540,7 @@
 
 .dissertation-hero__kicker {
   margin: 0 0 0.7rem;
-  font-family: "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
+  font-family: $sans-serif;
   font-size: 0.78em;
   font-weight: 700;
   letter-spacing: 0.08em;
@@ -561,7 +551,7 @@
 .dissertation-hero__title {
   margin: 0 0 0.12rem;
   max-width: none;
-  font-family: "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
+  font-family: $sans-serif;
   font-size: 1.82em;
   font-weight: 700;
   letter-spacing: -0.02em;
@@ -575,7 +565,7 @@
 .dissertation-hero__deck {
   margin: 0;
   max-width: 56rem;
-  font-family: "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
+  font-family: $sans-serif;
   font-size: 1.4em;
   font-weight: 600;
   letter-spacing: -0.015em;
@@ -595,13 +585,6 @@
   font-size: 1.05em;
   line-height: 1.4;
   text-align: center;
-}
-
-.dissertation-page .page__content > h2 {
-  margin-top: 2.4rem;
-  margin-bottom: 1rem;
-  color: var(--dissertation-navy);
-  font-weight: 600;
 }
 
 .dissertation-page .page__content > h2:first-of-type {

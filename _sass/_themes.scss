@@ -7,20 +7,20 @@
    ========================================================================== */
 
 /* Used to set the size for <em> */
-$doc-font-size              : 16;
+$doc-font-size              : 14;
 
 /* Paragraph indention */
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* System typefaces */
-$serif                      : "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
-$sans-serif                 : "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
+$serif                      : "Cormorant Garamond", Georgia, serif;
+$sans-serif                 : "Raleway", "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* Sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
-$helvetica                  : "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
+$helvetica                  : "Cormorant Garamond", Georgia, serif;
 
 /* Serif typefaces */
 $georgia                    : Georgia, serif;
@@ -41,7 +41,7 @@ $type-size-8                : 0.625em;  // ~10px
 
 $global-font-family         : $sans-serif;
 $header-font-family         : $helvetica;
-$caption-font-family        : $helvetica;
+$caption-font-family        : $sans-serif;
 
 /* ==========================================================================
    Breakpoints
