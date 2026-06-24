@@ -58,7 +58,7 @@ Across Europe and other Western democracies, I investigate how these processes s
         <summary class="research-entry__summary"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Abstract</span></summary>
         <p class="research-entry__abstract">
         Immigrants form interpersonal ties with natives even in hostile political environments, yet we know little about whether those ties buffer or compound the effects of broader hostility on political integration. This study examines how different forms of contact with natives shape immigrant political integration across contexts of varying hostility. I draw on the 2021 and 2022 waves of the German Socio-Economic Panel, linked at the district level to measures of native attitudes toward immigration and far-right vote share through restricted-access geographic identifiers, and complement the survey evidence with 18 in-depth interviews with Syrian and Turkish recent immigrants. Everyday positive interactions sustain institutional trust even where the local political climate is hostile. Friendship ties show the opposite pattern: in districts with high societal hostility, immigrants with predominantly native friends report lower belonging than those with predominantly co-ethnic networks. Close relationships with natives can sharpen rather than soften awareness of broader exclusion. These findings extend contact theory toward a minority-centered account of integration and help explain the integration paradox.</p>
-      </details></div>
+      </details><span class="research-entry__pdf-placeholder" aria-label="PDF coming soon" title="PDF coming soon"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></span></div>
     </div>
   </li>
   <li>
@@ -66,7 +66,7 @@ Across Europe and other Western democracies, I investigate how these processes s
       <div class="research-entry__titleline"><span class="research-entry__title"><span class="research-entry__title-main">Cross-Ethnic Engagement and Political Integration of First-Generation Immigrants in Quebec</span> <span class="research-entry__coauthor">(with Antoine Bilodeau)</span></span> <details class="research-entry__details research-entry__details--inline">
         <summary class="research-entry__summary"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Abstract</span></summary>
         <p class="research-entry__abstract">Using a survey conducted in 2019, this paper analyzes immigrants in the province of Quebec and shows that engaging in political activities with non-co-ethnic individuals fosters immigrant political integration by exposing immigrants to diverse perspectives, promoting a broader civic identity, and enhancing feelings of belonging and trust in the host society.</p>
-      </details></div>
+      </details><span class="research-entry__pdf-placeholder" aria-label="PDF coming soon" title="PDF coming soon"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></span></div>
     </div>
   </li>
   <li>
@@ -74,9 +74,15 @@ Across Europe and other Western democracies, I investigate how these processes s
       <div class="research-entry__titleline"><span class="research-entry__title"><span class="research-entry__title-main">Is Six Degrees of Separation Five Too Many? The Limits of Indirect Contact</span> <span class="research-entry__coauthor">(with Cara Wong)</span></span> <details class="research-entry__details research-entry__details--inline">
         <summary class="research-entry__summary"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Abstract</span></summary>
         <p class="research-entry__abstract">Intergroup interaction can reduce prejudice, but practical constraints limit direct contact, leading researchers to study indirect contact, such as knowing someone who knows an outgroup member. While social psychology meta-analyses suggest that indirect contact influences attitudes, political science research on military conscription questions its impact on political attitudes and behavior. This raises normative concerns about segregation and the need to understand why brief outgroup contact can be meaningful while long-term coexistence may have little effect.</p>
-      </details></div>
+      </details><span class="research-entry__pdf-placeholder" aria-label="PDF coming soon" title="PDF coming soon"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></span></div>
     </div>
   </li>
+</ul>
+
+## Work in Progress
+
+<ul class="research-working-papers">
+
   <li>
     <div class="research-entry">
       <div class="research-entry__titleline"><span class="research-entry__title"><span class="research-entry__title-main">Well-Integrated Immigrants Without a Sense of Belonging? Revisiting Integration Paradox and Successful Integration in Western Europe</span></span> <details class="research-entry__details research-entry__details--inline">
@@ -85,12 +91,6 @@ Across Europe and other Western democracies, I investigate how these processes s
       </details></div>
     </div>
   </li>
-
-</ul>
-
-## Work in Progress
-
-<ul class="research-working-papers">
 
   <li>
     <div class="research-entry">
