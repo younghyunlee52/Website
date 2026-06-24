@@ -7,7 +7,7 @@ show_title: false
 page_class: research-page
 ---
 
-## Research Agenda
+## Research
 
 My research examines how <span style="color: #C84113;">immigrants and minorities come to belong politically</span> in democratic societies. 
 I argue that political belonging is not a fixed status people possess or lack, but something continually negotiated through 
