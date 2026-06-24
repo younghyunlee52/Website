@@ -7,6 +7,8 @@ show_title: false
 page_class: updates-page
 ---
 
+<p class="updates-page__intro">This page collects recent research presentations, workshops, talks, and other academic updates.</p>
+
 {% assign updates_sorted = site.updates | sort: "date" | reverse %}
 {% assign current_year = "" %}
 
