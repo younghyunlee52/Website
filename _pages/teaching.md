@@ -9,16 +9,16 @@ page_class: teaching-page
 
 ## Instructor
 
-* PS385: Politics of the European Union, Summer 2024, University of Illinois
-* PS201: US Racial and Ethnic Politics, Fall 2023/Spring 2025, University of Illinois
+* Politics of the European Union (PS 385), Summer 2024, University of Illinois
+* US Racial and Ethnic Politics (PS 201), Fall 2023/Spring 2025, University of Illinois
 
 
 ## Teaching Assistant
 
-* PS270: Introduction to Political Theory, Spring 2022, University of Illinois
-* PS282: Governing Globalization, Fall 2021, University of Illinois
-* POLI238: Law and Political Thought, Fall 2017, Korea University
-* POLI361: Identity Politics in Europe and Asia, Spring 2017, Korea University
+* Introduction to Political Theory (PS 270), Spring 2022, University of Illinois
+* Governing Globalization (PS 282), Fall 2021, University of Illinois
+* Law and Political Thought (POLI 238), Fall 2017, Korea University
+* Identity Politics in Europe and Asia (POLI 361), Spring 2017, Korea University
 
 
 ## Teaching Evaluations by Students

@@ -5,7 +5,7 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em;
+  margin-top: 1.4em;
   margin-left: auto;
   margin-right: auto;
   padding-left: 1em;
@@ -66,17 +66,17 @@
 }
 
 .homepage-page.page--full .page__inner-wrap {
-  max-width: 58rem;
+  max-width: 56rem;
 }
 
 .page--full .page__content p {
-  text-align: justify;
-  text-justify: inter-word;
+  text-align: left;
+  text-justify: auto;
 }
 
 .page .page__content p {
-  text-align: justify;
-  text-justify: inter-word;
+  text-align: left;
+  text-justify: auto;
 }
 
 .job-market-note {
@@ -96,7 +96,8 @@
 }
 
 .homepage-page .page__content p {
-  font-size: 0.9em;
+  font-size: 1em;
+  line-height: 1.5;
   text-align: left !important;
   text-justify: auto;
 }
@@ -119,12 +120,12 @@
 
 .homepage-intro {
   display: grid;
-  gap: 1.75rem;
+  gap: 1.5rem;
   align-items: start;
 
   @include breakpoint($medium) {
     grid-template-columns: minmax(185px, 220px) minmax(0, 1fr);
-    gap: 3rem;
+    gap: 2.4rem;
   }
 }
 
@@ -155,14 +156,17 @@
 .homepage-intro__name {
   margin: 0 0 0.4rem;
   color: #000;
-  font-size: 2rem;
-  font-weight: 700;
+  font-family: $header-font-family;
+  font-size: 2.6rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
   line-height: 1.05;
 }
 
 .homepage-intro__affiliation-line {
-  margin: 0 0 0.35rem;
+  margin: 0 0 0.25rem;
   color: #000;
+  font-size: 0.92rem;
 }
 
 .homepage-intro__affiliation {
@@ -184,7 +188,7 @@
 }
 
 .homepage-intro__welcome {
-  margin: 2.9rem 0 1.3rem;
+  margin: 2.2rem 0 1rem;
   color: #000;
   font-weight: 400;
 }
@@ -213,8 +217,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 0.5rem;
-  margin: 1.15rem 0 0;
+  gap: 0.42rem;
+  margin: 1rem 0 0;
   color: #13294B;
 
   a {
@@ -306,10 +310,11 @@
 .research-page .page__content > h2,
 .teaching-page .page__content > h2,
 .dissertation-page .page__content > h2 {
-  margin-top: 2.75rem;
-  margin-bottom: 1rem;
+  margin-top: 2.35rem;
+  margin-bottom: 0.8rem;
   color: #13294B;
-  font-weight: 600;
+  font-style: normal;
+  font-weight: 700;
 }
 
 .research-page .page__content > h2:first-child {
@@ -621,10 +626,10 @@
 .dissertation-meta__label {
   display: block;
   margin-bottom: 0.35rem;
-  font-family: "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
+  font-family: $sans-serif;
   font-size: 0.8em;
   font-weight: 700;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #C84113;
 }
@@ -635,10 +640,10 @@
 
 .dissertation-figure-label {
   margin: 0.4rem 0 0.35rem;
-  font-family: "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
+  font-family: $sans-serif;
   font-size: 0.78em;
   font-weight: 700;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--global-text-color-light);
 }

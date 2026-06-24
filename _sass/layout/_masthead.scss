@@ -27,8 +27,8 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 0.5em 1em;
-    font-family: "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
+    padding: 0.6em 1em 0.5em;
+    font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -59,24 +59,25 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  font-family: "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
+  font-family: $sans-serif-narrow;
 
   &--lg {
     padding-right: 2em;
-    font-weight: 700;
+    font-family: $header-font-family;
+    font-weight: 600;
   }
 }
 
 .masthead__menu-item.selected a {
   color: #13294B;
-  font-weight: 700;
-  border-bottom: 2px solid #13294B;
+  font-weight: 600;
+  border-bottom: 1px solid #13294B;
   pointer-events: none; /* Move this here */
   cursor: default; /* Move this here too */
 }
 
 .masthead__menu-item.selected a:hover {
   color: #13294B;
-  border-bottom: 2px solid #13294B;
+  border-bottom: 1px solid #13294B;
   /* No need to repeat pointer-events and cursor here */
 }

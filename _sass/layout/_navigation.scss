@@ -176,13 +176,17 @@
   position: relative;
   min-width: 250px;
   background: var(--global-bg-color);
-  font-family: "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
+  font-family: $sans-serif-narrow;
 
   a {
     display: block;
     margin: 0 1rem;
-    padding: 0.5rem 0;
+    padding: 0.45rem 0;
     color: var(--global-masthead-link-color);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
     text-decoration: none;
 
     &:hover {
@@ -211,11 +215,16 @@
       vertical-align: middle;
 
       &:first-child {
-        font-weight: bold;
+        font-weight: 600;
         text-wrap: wrap;
 
         a {
           margin-left: 0;
+          font-family: $sans-serif-narrow;
+          font-size: 0.78rem;
+          font-weight: 600;
+          letter-spacing: 0.08em;
+          text-transform: uppercase;
         }
       }
 
@@ -243,7 +252,7 @@
         position: absolute;
         left: 0;
         bottom: 0;
-        height: 4px;
+        height: 1px;
         background: var(--global-border-color);
         width: 100%;
         -webkit-transition: $global-transition;

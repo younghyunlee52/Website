@@ -7,20 +7,20 @@
    ========================================================================== */
 
 /* Used to set the size for <em> */
-$doc-font-size              : 14;
+$doc-font-size              : 17;
 
 /* Paragraph indention */
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* System typefaces */
-$serif                      : "Cormorant Garamond", Georgia, serif;
-$sans-serif                 : "Raleway", "Avenir Next", "Avenir", "Helvetica Neue", Arial, sans-serif;
+$serif                      : Georgia, serif;
+$sans-serif                 : Georgia, serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* Sans serif typefaces */
-$sans-serif-narrow          : $sans-serif;
-$helvetica                  : "Cormorant Garamond", Georgia, serif;
+$sans-serif-narrow          : "Open Sans", "Helvetica Neue", Arial, sans-serif;
+$helvetica                  : Georgia, serif;
 
 /* Serif typefaces */
 $georgia                    : Georgia, serif;
