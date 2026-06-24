@@ -9,10 +9,12 @@ page_class: research-page
 
 ## Research Agenda
 
-My research examines how <span style="color: #C84113;">immigrants and minorities become recognized as legitimate members of democratic political communities.</span> I argue that political belonging is not
-a fixed status people possess or lack, but something continually negotiated through 
-social <span style="color: #C84113;">interactions with others</span>, <span style="color: #C84113;">group boundaries</span>, and political discourse. Across Europe and other 
-Western democracies, I study (1) how social interactions, group identities, and political environments shape political incorporation among immigrants, and (2) how democratic communities define who belongs within them.
+My research examines how <span style="color: #C84113;">immigrants and minorities come to belong politically</span> in democratic societies. 
+I argue that political belonging is not a fixed status people possess or lack, but something continually negotiated through 
+<span style="color: #C84113;">everyday interactions with others</span>, <span style="color: #C84113;">the boundaries groups draw around themselves</span>, and <span style="color: #C84113;">the political language that defines who counts as a legitimate member</span>. 
+Across Europe and other Western democracies, I investigate how these processes shape immigrants’ political integration and how democratic communities define membership within them.
+
+
 ## Peer-Reviewed Articles
 
 <ol class="research-publications" reversed start="3">

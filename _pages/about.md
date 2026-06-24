@@ -30,17 +30,12 @@ redirect_from:
     <p>I am a Ph.D. candidate in the Department of Political Science at the <a class="homepage-accent-link" href="https://pol.illinois.edu">University of 
     Illinois, Urbana-Champaign</a>. I will be <span class="job-market-note">on the job market in the 2026-2027 academic year</span>.</p>
 
-    <p>I study how immigrants and minorities come to belong politically in contemporary 
-    European democracies: when they are recognized as legitimate members of the political community, 
-    and when they are pushed to its margins. My work sits at the intersection of
-    comparative political behavior, political psychology, and identity politics, and has been published
-    in <em>Political Science Research and Methods</em> and the <em>Journal of Ethnic and Migration Studies</em>.</p>
-    
-    <p>My dissertation, Beyond Contact: How Interactions with Natives Shape Immigrant
-    Political Integration, takes a minority-centered approach to intergroup contact. 
-    Drawing on survey data, interviews, and original survey experiments, I investigate 
-    how interactions with natives shape immigrants' own political integration 
-    in the context of anti-immigrant sentiment in Belgium and Germany. </p>
+    <p>I study how immigrants and minorities come to belong politically in Europe and other Western democracies: 
+    when they come to see themselves as legitimate members of the political community, and when they are pushed to its margins. 
+    I apply experimental, observational, and computational designs to original large-scale data, combining causal inference 
+    with insights from extensive fieldwork in the context of rising anti-immigrant hostility. 
+    My dissertation examines how interactions with natives shape immigrants' own political integration in Belgium and Germany. 
+    My work has been published in <em>Political Science Research and Methods</em> and the <em>Journal of Ethnic and Migration Studies</em>.</p>
 
     <p>I was a doctoral visiting fellow at the <a class="homepage-accent-link" href="https://www.irimmigration.org/younghyun-lee/">Immigration
     Research Initiative (IRI)</a> in Fall 2024 and at the <a class="homepage-accent-link" href="https://www.mzes.uni-mannheim.de/d7/en">Mannheim 
