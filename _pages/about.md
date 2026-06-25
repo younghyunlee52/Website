@@ -34,7 +34,7 @@ redirect_from:
     when they come to see themselves as legitimate members of the political community, and when they are pushed to its margins. 
     I apply experimental, observational, and computational designs to original large-scale data, combining causal inference 
     with insights from extensive fieldwork in the context of rising anti-immigrant hostility. 
-    My dissertation examines how interactions with natives shape immigrants' own political integration in Belgium and Germany. 
+    <a class="job-market-note" href="/dissertation/">My dissertation</a> examines how interactions with natives shape immigrants' own political integration in Belgium and Germany. 
     My work has been published in <em>Political Science Research and Methods</em> and the <em>Journal of Ethnic and Migration Studies</em>.</p>
 
     <p>I was a doctoral visiting fellow at the <a class="homepage-accent-link" href="https://www.irimmigration.org/younghyun-lee/">Immigration

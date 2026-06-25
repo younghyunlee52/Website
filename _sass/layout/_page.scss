@@ -84,6 +84,12 @@
   font-weight: 600;
 }
 
+.homepage-page .page__content a.job-market-note,
+.homepage-page .page__content a.job-market-note:hover {
+  color: #13294B;
+  text-decoration: none !important;
+}
+
 .homepage-name {
   margin: 0 0 0.45rem;
   font-size: 2.25rem;
