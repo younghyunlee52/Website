@@ -27,7 +27,7 @@ Across Europe and other Western democracies, I investigate how these processes s
   <li>
     <div class="research-publication-entry">
       <p class="research-publication-entry__title"><span class="research-publication-entry__title-main">Engaged but Targeted? How Immigrants Vote Against Anti-Immigrant Agendas in Europe.</span> <span class="research-publication-entry__coauthor">(with Sanghoon Kim-Leffingwell)</span></p>
-      <div class="research-publication-entry__meta"><em>Journal of Ethnic and Migration Studies</em>. 2025. <a class="research-publication-entry__link" href="https://doi.org/10.1080/1369183X.2025.2589904" target="_blank" rel="noopener noreferrer"><i class="fas fa-link" aria-hidden="true"></i><span>Publisher Page</span></a></div>
+      <div class="research-publication-entry__meta"><em>Journal of Ethnic and Migration Studies</em>. 2026, 52(13), 3323-3347. <a class="research-publication-entry__link" href="https://doi.org/10.1080/1369183X.2025.2589904" target="_blank" rel="noopener noreferrer"><i class="fas fa-link" aria-hidden="true"></i><span>Publisher Page</span></a></div>
     </div>
   </li>
   <li>
