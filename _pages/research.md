@@ -77,6 +77,11 @@ Across Europe and other Western democracies, I investigate how these processes s
       </details><span class="research-entry__pdf-placeholder" aria-label="PDF coming soon" title="PDF coming soon"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></span></div>
     </div>
   </li>
+  <li>
+    <div class="research-entry">
+      <p class="research-entry__title"><span class="research-entry__title-main">Inter-Minority Attitudes Among Refugees in Germany</span> <span class="research-entry__coauthor">(with Christian Czymara and Irena Kogan)</span></p>
+    </div>
+  </li>
 </ul>
 
 ## Work in Progress
@@ -92,11 +97,6 @@ Across Europe and other Western democracies, I investigate how these processes s
     </div>
   </li>
 
-  <li>
-    <div class="research-entry">
-      <p class="research-entry__title"><span class="research-entry__title-main">Inter-Minority Attitudes Among Refugees in Germany</span> <span class="research-entry__coauthor">(with Christian Czymara and Irena Kogan)</span></p>
-    </div>
-  </li>
   <li>
     <div class="research-entry">
       <p class="research-entry__title"><span class="research-entry__title-main">Not the Same Kind of Immigrant! Boundary-Making Among Co-National Immigrants</span></p>
