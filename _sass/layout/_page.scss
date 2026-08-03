@@ -585,6 +585,16 @@
   color: var(--global-text-color);
 }
 
+.research-page .research-entry__presented a,
+.research-page .research-entry__presented a:visited {
+  color: #6f6f6f;
+}
+
+.research-page .research-entry__presented a:hover,
+.research-page .research-entry__presented a:focus {
+  color: #5c5c5c;
+}
+
 
 .dissertation-page .page__inner-wrap {
   max-width: 54rem;

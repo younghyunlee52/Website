@@ -59,7 +59,7 @@ Across Europe and other Western democracies, I investigate how these processes s
         <p class="research-entry__abstract">
         Why do some immigrants politically integrate in host societies while others do not? Can positive interactions with natives promote the political integration of immigrants? This paper extends contact theory beyond its conventional focus on attitude change toward the outgroup by examining how interpersonal contact transforms immigrants' political integration through shifts in self-perception and identity. Using the German SOEP data (2021-2022) and focusing on first-generation non-EU immigrants in Germany (N = 5,240), I hypothesize that positive interpersonal contact in daily life, measured by feelings of appreciation and friends with natives, can serve as a counterforce to exclusionary societal contexts, fostering political integration, measured by a sense of belonging, political trust, and efficacy among immigrants. The results show that positive interpersonal contact can indeed promote political integration of immigrants, while negative interpersonal contact, measured by feelings of depreciation, does not necessarily reduce it. In addition, while hostile contexts reduce immigrants' sense of belonging and efficacy, they do not consistently moderate the effect of positive contact.</p>
       </details><a class="research-entry__pdf-placeholder" href="/files/paper1.pdf" target="_blank" rel="noopener noreferrer" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a></div>
-      <ul>
+      <ul class="research-entry__presented">
         <li><em>Presented at <a href="/updates/2026-05-08-priec-at-ucsb/">PRIEC 2026</a>, <a href="/updates/2026-04-23-mpsa-annual-meeting/">MPSA 2026</a>, <a href="/updates/2025-09-11-apsa-annual-meeting/">APSA 2025</a>.</em></li>
       </ul>
     </div>
@@ -70,7 +70,7 @@ Across Europe and other Western democracies, I investigate how these processes s
         <summary class="research-entry__summary"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Abstract</span></summary>
         <p class="research-entry__abstract">How do immigrants come to feel they belong in their new country? This paper examines how everyday social interactions, both with people from their own ethnic community and with people from different backgrounds, are associated with immigrant belonging. Using original survey data from 1,795 first-generation immigrants across 29 localities in Quebec, we show that the same kinds of interaction are associated with different forms of belonging depending on political context. We compare two contexts that the same immigrant population lives under: Canada’s multicultural framework, which treats keeping one’s ethnic identity as compatible with being Canadian, and Quebec’s interculturalist framework, which expects immigrants to converge around a shared French-language public culture. Under Canada’s framework, both kinds of interaction are associated with belonging in different ways: cross-ethnic friendship is associated with feeling accepted, and co-ethnic friendship is associated with feeling attached. Under Quebec’s framework, only cross-ethnic interaction is associated with belonging; co-ethnic interactions are politically invisible. We also find that the costs of discrimination are largest in Quebec, where the demand to integrate is highest. The political context in which cross-ethnic recognition appears most consequential is also where exclusion is most costly.</p>
       </details><a class="research-entry__pdf-placeholder" href="/files/paper2.pdf" target="_blank" rel="noopener noreferrer" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a></div>
-      <ul>
+      <ul class="research-entry__presented">
         <li><em>Presented at <a href="/updates/2025-04-03-mpsa-annual-meeting/">MPSA 2025</a>.</em></li>
       </ul>
     </div>
@@ -103,7 +103,7 @@ Across Europe and other Western democracies, I investigate how these processes s
         <summary class="research-entry__summary"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Abstract</span></summary>
         <p class="research-entry__abstract">This study examines the relationship between immigrants' economic integration and their sense of belonging in European host societies. Using the 2018 European Social Survey, I employ a three-step analytical approach to demonstrate the absence of a significant effect of economic integration on immigrants' sense of belonging.</p>
       </details></div>
-      <ul>
+      <ul class="research-entry__presented">
         <li><em>Presented at <a href="/updates/2022-09-09-washington-illinois-student-exchange/">Washington-Illinois Student Exchange 2022</a>, <a href="/updates/2023-11-16-priec-at-unt/">PRIEC 2023</a>, <a href="/updates/2022-04-11-mpsa-annual-meeting/">MPSA 2022</a>.</em></li>
       </ul>
     </div>
@@ -120,7 +120,7 @@ Across Europe and other Western democracies, I investigate how these processes s
         <summary class="research-entry__summary"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Abstract</span></summary>
         <p class="research-entry__abstract">Democratic stability depends on losers' consent. Yet, recent elections across consolidated democracies show that defeated candidates increasingly challenge electoral outcomes, alleging electoral fraud. Why do some electoral losers refuse to concede defeat and instead allege fraud? We argue that candidates with precarious standing within their party face strong incentives to delegitimize electoral results and externalize blame for their loss. To test our theoretical claims, we construct an original cross-national, candidate-level dataset of electoral fraud allegations in consolidated democracies since 1990. Preliminary analysis provides partial support for the association between intraparty vulnerability and fraud allegations. The paper contributes to our understanding of democratic backsliding, intraparty competition, and elite strategic behaviors in electoral politics.</p>
       </details></div>
-      <ul>
+      <ul class="research-entry__presented">
         <li><em>Presented at <a href="/updates/2026-04-23-mpsa-annual-meeting/">MPSA 2026</a>.</em></li>
       </ul>
     </div>
