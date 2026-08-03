@@ -74,7 +74,7 @@ Across Europe and other Western democracies, I investigate how these processes s
       <div class="research-entry__titleline"><span class="research-entry__title"><span class="research-entry__title-main">Is Six Degrees of Separation Five Too Many? The Limits of Indirect Contact</span> <span class="research-entry__coauthor">(with Cara Wong)</span></span> <details class="research-entry__details research-entry__details--inline">
         <summary class="research-entry__summary"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Abstract</span></summary>
         <p class="research-entry__abstract">Intergroup interaction can reduce prejudice, but practical constraints limit direct contact, leading researchers to study indirect contact, such as knowing someone who knows an outgroup member. While social psychology meta-analyses suggest that indirect contact influences attitudes, political science research on military conscription questions its impact on political attitudes and behavior. This raises normative concerns about segregation and the need to understand why brief outgroup contact can be meaningful while long-term coexistence may have little effect.</p>
-      </details><span class="research-entry__pdf-placeholder" aria-label="PDF coming soon" title="PDF coming soon"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></span></div>
+      </details></div>
     </div>
   </li>
   <li>
@@ -107,7 +107,10 @@ Across Europe and other Western democracies, I investigate how these processes s
   </li>
   <li>
     <div class="research-entry">
-      <p class="research-entry__title"><span class="research-entry__title-main">When Do Losers Defy Electoral Outcomes?</span> <span class="research-entry__coauthor">(with Jonghoon Lee)</span></p>
+      <div class="research-entry__titleline"><span class="research-entry__title"><span class="research-entry__title-main">When Do Losers Defy Electoral Outcomes?</span> <span class="research-entry__coauthor">(with Jonghoon Lee)</span></span> <details class="research-entry__details research-entry__details--inline">
+        <summary class="research-entry__summary"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Abstract</span></summary>
+        <p class="research-entry__abstract">Democratic stability depends on losers' consent. Yet, recent elections across consolidated democracies show that defeated candidates increasingly challenge electoral outcomes, alleging electoral fraud. Why do some electoral losers refuse to concede defeat and instead allege fraud? We argue that candidates with precarious standing within their party face strong incentives to delegitimize electoral results and externalize blame for their loss. To test our theoretical claims, we construct an original cross-national, candidate-level dataset of electoral fraud allegations in consolidated democracies since 1990. Preliminary analysis provides partial support for the association between intraparty vulnerability and fraud allegations. The paper contributes to our understanding of democratic backsliding, intraparty competition, and elite strategic behaviors in electoral politics.</p>
+      </details></div>
     </div>
   </li>
   <li>
