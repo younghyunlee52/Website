@@ -16,7 +16,7 @@ redirect_from:
       <a href="mailto:yl78@illinois.edu" aria-label="Email" title="Email"><i class="fas fa-envelope" aria-hidden="true"></i></a>
       <a href="https://scholar.google.com/citations?user=blZ39F4AAAAJ&hl=en" aria-label="Google Scholar" title="Google Scholar"><i class="ai ai-google-scholar ai-fw" aria-hidden="true"></i></a>
       <a href="https://orcid.org/0009-0005-7408-6729" aria-label="ORCID" title="ORCID"><i class="ai ai-orcid ai-fw" aria-hidden="true"></i></a>
-      <a href="/files/cv.pdf?v=20260803" aria-label="CV" title="CV"><i class="ai ai-cv ai-fw" aria-hidden="true"></i></a>
+      <a href="/files/cv.pdf?v=20260815" aria-label="CV" title="CV"><i class="ai ai-cv ai-fw" aria-hidden="true"></i></a>
     </div>
   </div>
   <div class="homepage-intro__content">

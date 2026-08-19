@@ -8,11 +8,11 @@ redirect_from:
   - /resume
 ---
 
-You can download my CV [here](/files/cv.pdf?v=20260803).
+You can download my CV [here](/files/cv.pdf?v=20260815).
 
 <div style="margin-top: 1.25rem;">
   <iframe
-    src="/files/cv.pdf?v=20260803"
+    src="/files/cv.pdf?v=20260815"
     title="Younghyun Lee CV"
     width="100%"
     height="1100"
