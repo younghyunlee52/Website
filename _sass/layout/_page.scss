@@ -327,6 +327,11 @@
   margin-top: 0.5rem;
 }
 
+.research-page .page__content > h2:first-child,
+.teaching-page .page__content > h2:first-child {
+  font-family: $sans-serif;
+}
+
 .research-page .page__content > ol,
 .research-page .page__content > ul,
 .research-page .page__content > p {
@@ -356,6 +361,14 @@
   margin-bottom: 0.45rem;
   color: #2F2F2F;
   font-size: 1.02em;
+  font-weight: 600;
+}
+
+.teaching-page .page__content > h4 {
+  margin-top: 1.2rem;
+  margin-bottom: 0.45rem;
+  color: #2F2F2F;
+  font-size: 1em;
   font-weight: 600;
 }
 

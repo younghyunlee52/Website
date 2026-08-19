@@ -30,8 +30,10 @@ redirect_from:
     <p>I am a Ph.D. candidate in the Department of Political Science at the <a class="homepage-accent-link" href="https://pol.illinois.edu">University of 
     Illinois, Urbana-Champaign</a>. I will be <span class="job-market-note">on the job market in the 2026-2027 academic year</span>.</p>
 
-    <p>I study how immigrants and minorities come to belong politically in Europe and other Western democracies: 
-    when they come to see themselves as legitimate members of the political community, and when they are pushed to its margins. 
+    <p>My research sits at the intersection of <strong>comparative politics, European
+    politics, and migration &amp; citizenship</strong>. I ask two questions: (1) how do
+    immigrants politically integrate into host societies, and (2) how do democratic
+    communities define who belongs?
     I apply experimental, observational, and computational designs to original large-scale data, combining causal inference 
     with insights from extensive fieldwork in the context of rising anti-immigrant hostility. 
     <a class="job-market-note" href="/dissertation/">My dissertation</a> examines how interactions with natives shape immigrants' own political integration in Belgium and Germany. 
