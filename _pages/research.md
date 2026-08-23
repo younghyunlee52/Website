@@ -57,7 +57,7 @@ My research examines how immigrants and minorities come to belong politically in
         Immigrants in contemporary Europe live inside a contradiction: they build daily lives alongside natives whose parties and publics increasingly declare them unwelcome. Research on their political integration has focused on formal standing such as citizenship, language, and labor-market access, yet it is in everyday contact with natives that immigrants learn whether the community regards them as members. What do these contacts do to political integration when the surrounding climate is hostile? Drawing on the German Socio-Economic Panel (2021-2022) linked to district-level measures of political hostility (AfD vote share) and societal hostility (native attitudes toward immigration), and complementing the survey evidence with 18 in-depth interviews with recent immigrants from Syria and Turkey, I find that immigrants who feel recognized in everyday interactions report higher political trust, efficacy, and interest, while those who feel unappreciated report less. The two forms of hostility, however, condition contact in distinct ways. Under political hostility, the benefits of everyday contact attenuate. Under societal hostility, everyday contact persists but deep ties transform: native friendships strengthen belonging in welcoming contexts, yet this association reverses where native concern is high, with immigrants embedded in native networks reporting lower belonging than those in co-ethnic ones. Contact does not integrate immigrants uniformly and its consequences depend not only on how hostile the context is, but on which kind of hostility it is.</p>
       </details><a class="research-entry__pdf-placeholder" href="/files/paper1.pdf?v=20260821" target="_blank" rel="noopener noreferrer" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a></div>
       <ul class="research-entry__presented">
-        <li><em>Presented at <a href="/updates/2026-05-08-priec-at-ucsb/">PRIEC 2026</a>, <a href="/updates/2026-04-23-mpsa-annual-meeting/">MPSA 2026</a>, <a href="/updates/2025-09-11-apsa-annual-meeting/">APSA 2025</a>.</em></li>
+        <li><em>Presented at <a href="/updates/2026-05-08-priec-at-ucsb/">PRIEC 2026</a>, <a href="/updates/2026-04-23-mpsa-annual-meeting/">MPSA 2026</a>, <a href="/updates/2025-09-11-apsa-annual-meeting/">APSA 2025</a></em></li>
       </ul>
     </div>
   </li>
@@ -68,7 +68,7 @@ My research examines how immigrants and minorities come to belong politically in
         <p class="research-entry__abstract">How do immigrants come to feel they belong in their new country? This paper examines how everyday social interactions, both with people from their own ethnic community and with people from different backgrounds, are associated with immigrant belonging. Using original survey data from 1,795 first-generation immigrants across 29 localities in Quebec, we show that the same kinds of interaction are associated with different forms of belonging depending on political context. We compare two contexts that the same immigrant population lives under: Canada’s multicultural framework, which treats keeping one’s ethnic identity as compatible with being Canadian, and Quebec’s interculturalist framework, which expects immigrants to converge around a shared French-language public culture. Under Canada’s framework, both kinds of interaction are associated with belonging in different ways: cross-ethnic friendship is associated with feeling accepted, and co-ethnic friendship is associated with feeling attached. Under Quebec’s framework, only cross-ethnic interaction is associated with belonging; co-ethnic interactions are politically invisible. We also find that the costs of discrimination are largest in Quebec, where the demand to integrate is highest. The political context in which cross-ethnic recognition appears most consequential is also where exclusion is most costly.</p>
       </details><a class="research-entry__pdf-placeholder" href="/files/paper2.pdf?v=20260821" target="_blank" rel="noopener noreferrer" aria-label="PDF" title="PDF"><i class="fas fa-file-pdf" aria-hidden="true"></i><span>PDF</span></a></div>
       <ul class="research-entry__presented">
-        <li><em>Presented at <a href="/updates/2025-04-03-mpsa-annual-meeting/">MPSA 2025</a>.</em></li>
+        <li><em>Presented at <a href="/updates/2025-04-03-mpsa-annual-meeting/">MPSA 2025</a></em></li>
       </ul>
     </div>
   </li>
@@ -101,7 +101,7 @@ My research examines how immigrants and minorities come to belong politically in
         <p class="research-entry__abstract">This study examines the relationship between immigrants' economic integration and their sense of belonging in European host societies. Using the 2018 European Social Survey, I employ a three-step analytical approach to demonstrate the absence of a significant effect of economic integration on immigrants' sense of belonging.</p>
       </details></div>
       <ul class="research-entry__presented">
-        <li><em>Presented at <a href="/updates/2022-09-09-washington-illinois-student-exchange/">Washington-Illinois Student Exchange 2022</a>, <a href="/updates/2023-11-16-priec-at-unt/">PRIEC 2023</a>, <a href="/updates/2022-04-11-mpsa-annual-meeting/">MPSA 2022</a>.</em></li>
+        <li><em>Presented at <a href="/updates/2022-09-09-washington-illinois-student-exchange/">Washington-Illinois Student Exchange 2022</a>, <a href="/updates/2023-11-16-priec-at-unt/">PRIEC 2023</a>, <a href="/updates/2022-04-11-mpsa-annual-meeting/">MPSA 2022</a></em></li>
       </ul>
     </div>
   </li>
@@ -118,8 +118,8 @@ My research examines how immigrants and minorities come to belong politically in
         <p class="research-entry__abstract">Democratic stability depends on losers' consent: the willingness of defeated candidates to accept outcomes and to continue competing within electoral rules. Yet recent elections have increasingly featured defeated candidates refusing to concede and alleging electoral fraud. Why do some losing candidates make allegations of electoral fraud and refuse to concede defeat? In this project, we argue that post-electoral fraud allegations are shaped by intraparty competition. Specifically, candidates with precarious standing within their party due to outsider status, leadership contestation, or expected intraparty challenges face stronger incentives to delegitimize electoral outcomes and externalize blame for defeat. To test these claims, we construct an original cross-national, candidate-level dataset of electoral fraud allegations in consolidated democracies since 1990. Preliminary findings suggest that candidates facing intraparty competition are more likely to allege electoral fraud after defeat, implying a paradox in which defeated candidates undermine electoral legitimacy to compete in future elections. The project broadens our understanding of democratic backsliding, party politics, misinformation, and comparative electoral politics.</p>
       </details></div>
       <ul class="research-entry__presented">
-        <li><em>Presented at <a href="/updates/2026-04-23-mpsa-annual-meeting/">MPSA 2026</a>.</em></li>
-        <li><em>Supported by 2026 APSA Summer Centennial Center Research Grant.</em></li>
+        <li><em>Presented at <a href="/updates/2026-04-23-mpsa-annual-meeting/">MPSA 2026</a></em></li>
+        <li><em>Supported by 2026 APSA Summer Centennial Center Research Grant</em></li>
       </ul>
     </div>
   </li>
