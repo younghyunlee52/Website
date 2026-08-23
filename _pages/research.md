@@ -113,12 +113,13 @@ My research examines how immigrants and minorities come to belong politically in
   </li>
   <li>
     <div class="research-entry">
-      <div class="research-entry__titleline"><span class="research-entry__title"><span class="research-entry__title-main">When Do Losers Defy Electoral Outcomes?</span> <span class="research-entry__coauthor">(with Jonghoon Lee)</span></span> <details class="research-entry__details research-entry__details--inline">
+      <div class="research-entry__titleline"><span class="research-entry__title"><span class="research-entry__title-main">The Politics of Losers: Electoral Fraud Allegations and Intraparty Vulnerability in Consolidated Democracies</span> <span class="research-entry__coauthor">(with Jonghoon Lee)</span></span> <details class="research-entry__details research-entry__details--inline">
         <summary class="research-entry__summary"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Abstract</span></summary>
         <p class="research-entry__abstract">Democratic stability depends on losers' consent: the willingness of defeated candidates to accept outcomes and to continue competing within electoral rules. Yet recent elections have increasingly featured defeated candidates refusing to concede and alleging electoral fraud. Why do some losing candidates make allegations of electoral fraud and refuse to concede defeat? In this project, we argue that post-electoral fraud allegations are shaped by intraparty competition. Specifically, candidates with precarious standing within their party due to outsider status, leadership contestation, or expected intraparty challenges face stronger incentives to delegitimize electoral outcomes and externalize blame for defeat. To test these claims, we construct an original cross-national, candidate-level dataset of electoral fraud allegations in consolidated democracies since 1990. Preliminary findings suggest that candidates facing intraparty competition are more likely to allege electoral fraud after defeat, implying a paradox in which defeated candidates undermine electoral legitimacy to compete in future elections. The project broadens our understanding of democratic backsliding, party politics, misinformation, and comparative electoral politics.</p>
       </details></div>
       <ul class="research-entry__presented">
         <li><em>Presented at <a href="/updates/2026-04-23-mpsa-annual-meeting/">MPSA 2026</a>.</em></li>
+        <li><em>Supported by 2026 APSA Summer Centennial Center Research Grant.</em></li>
       </ul>
     </div>
   </li>
