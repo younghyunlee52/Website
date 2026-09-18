@@ -13,7 +13,6 @@ page_class: dissertation-page
   <h2 class="dissertation-hero__deck">How Intergroup Relations with Natives Shape Immigrant Political Integration</h2>
 </div>
 
-
 My dissertation develops <span style="color: #C84113;">a minority-centered perspective on intergroup contact</span>, focusing on how immigrants themselves experience and navigate interactions with natives. I argue (1) that contact with natives shapes immigrants' political integration, but its effect depends on the surrounding climate and (2) that it works by changing how immigrants see themselves. Here, political integration refers to immigrants' political trust, interest, efficacy, and sense of belonging.
 
 <figure class="dissertation-figure dissertation-figure--theory">
@@ -34,6 +33,8 @@ My dissertation develops <span style="color: #C84113;">a minority-centered persp
     <p>Chat-based survey experiment with immigrants in Belgium and Germany that tests whether recognition-based contact causally increases political integration.</p>
   </div>
 </div>
+
+My job market paper is based on the survey chapter of my dissertation and incorporates selected evidence from my interview chapter. It is available [here](/files/paper1.pdf?v=20260831){:target="_blank" rel="noopener noreferrer"}.
 
 ## Survey Evidence
 
