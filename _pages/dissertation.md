@@ -13,7 +13,7 @@ page_class: dissertation-page
   <h2 class="dissertation-hero__deck">How Intergroup Relations with Natives Shape Immigrant Political Integration</h2>
 </div>
 
-My dissertation develops <span style="color: #C84113;">a minority-centered perspective on intergroup contact</span>, focusing on how immigrants themselves experience and navigate interactions with natives. I argue (1) that contact with natives shapes immigrants' political integration, but its effect depends on the surrounding climate and (2) that it works by changing how immigrants see themselves. Here, political integration refers to immigrants' political trust, interest, efficacy, and sense of belonging.
+My dissertation develops <span style="color: #13294B;">a minority-centered perspective on intergroup contact</span>, focusing on how immigrants themselves experience and navigate interactions with natives. I argue (1) that contact with natives shapes immigrants' political integration, but its effect depends on the surrounding climate and (2) that it works by changing how immigrants see themselves. Here, political integration refers to immigrants' political trust, interest, efficacy, and sense of belonging.
 
 <figure class="dissertation-figure dissertation-figure--theory">
   <img src="/images/dissertation/theory.jpg" alt="Conceptual framework showing how contact with natives is related to political integration through identity shift, conditioned by contextual hostility.">
@@ -30,7 +30,7 @@ My dissertation develops <span style="color: #C84113;">a minority-centered persp
   </div>
   <div class="dissertation-meta__item">
     <span class="dissertation-meta__label">Empirical Chapter III</span>
-    <p>Chat-based survey experiment with immigrants in Belgium and Germany that tests whether recognition-based contact causally increases political integration.</p>
+    <p>Pre-registered chat-based survey experiment with immigrants in Belgium and Germany that tests whether recognition-based contact causally increases political integration.</p>
   </div>
 </div>
 

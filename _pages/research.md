@@ -9,7 +9,7 @@ page_class: research-page
 
 ## Research
 
-My research examines how immigrants and minorities come to belong politically in democratic societies. I ask two questions that are two sides of the same process: <span style="color: #C84113;">how do immigrants politically integrate into host societies</span>, and <span style="color: #C84113;">how do democratic communities define who belongs?</span> I argue that political belonging is not a fixed status people possess or lack, but something continually negotiated through everyday interactions with natives, the boundaries groups draw around themselves, and the political language that defines who counts as a legitimate member.
+My research examines how immigrants and minorities come to belong politically in democratic societies. I ask two questions that are two sides of the same process: <span style="color: #13294B;">how do immigrants politically integrate into host societies</span>, and <span style="color: #13294B;">how do democratic communities define who belongs?</span> I argue that political belonging is not a fixed status people possess or lack, but something continually negotiated through everyday interactions with natives, the boundaries groups draw around themselves, and the political language that defines who counts as a legitimate member.
 
 
 ## Peer-Reviewed Articles
@@ -17,20 +17,17 @@ My research examines how immigrants and minorities come to belong politically in
 <ol class="research-publications" reversed start="3">
   <li>
     <div class="research-publication-entry">
-      <p class="research-publication-entry__title"><span class="research-publication-entry__title-main">Engaged but Targeted? How Immigrants Vote Against Anti-Immigrant Agendas in Europe.</span> <span class="research-publication-entry__coauthor">(with Sanghoon Kim-Leffingwell)</span></p>
-      <div class="research-publication-entry__meta"><em>Journal of Ethnic and Migration Studies</em>. 2026, 52(13), 3323-3347. <a class="research-publication-entry__link" href="https://doi.org/10.1080/1369183X.2025.2589904" target="_blank" rel="noopener noreferrer"><i class="fas fa-link" aria-hidden="true"></i><span>Publisher Page</span></a></div>
+      <p class="research-publication-entry__citation"><strong>Younghyun Lee</strong> and Sanghoon Kim-Leffingwell. 2026. <a href="https://doi.org/10.1080/1369183X.2025.2589904" target="_blank" rel="noopener noreferrer">Engaged but Targeted? How Immigrants Vote Against Anti-Immigrant Agendas in Europe.</a> <em>Journal of Ethnic and Migration Studies</em> 52(13): 3323–3347.</p>
     </div>
   </li>
   <li>
     <div class="research-publication-entry">
-      <p class="research-publication-entry__title"><span class="research-publication-entry__title-main">What Can Dual Citizens Teach Us about Political Engagement?</span> <span class="research-publication-entry__coauthor">(with Seyoung Jung and Cara Wong)</span></p>
-      <div class="research-publication-entry__meta"><em>Political Science Research and Methods</em>. 2025. <a class="research-publication-entry__link" href="https://doi.org/10.1017/psrm.2025.10053" target="_blank" rel="noopener noreferrer"><i class="fas fa-link" aria-hidden="true"></i><span>Publisher Page</span></a></div>
+      <p class="research-publication-entry__citation">Seyoung Jung, <strong>Younghyun Lee</strong>, and Cara Wong. 2025. <a href="https://doi.org/10.1017/psrm.2025.10053" target="_blank" rel="noopener noreferrer">What Can Dual Citizens Teach Us about Political Engagement?</a> <em>Political Science Research and Methods</em>, 1–23.</p>
     </div>
   </li>
   <li>
     <div class="research-publication-entry">
-      <p class="research-publication-entry__title"><span class="research-publication-entry__title-main">Divergent Paths of Integration in the Post-Multicultural Era: Interculturalism in Spain and Civic Integration in France.</span> <span class="research-publication-entry__coauthor">(with Nam-Kook Kim)</span></p>
-      <div class="research-publication-entry__meta"><em>Journal of European Union Studies</em> 53: 3-48. 2019. <a class="research-publication-entry__link" href="https://doi.org/10.18109/jeus.2019..53.3" target="_blank" rel="noopener noreferrer"><i class="fas fa-link" aria-hidden="true"></i><span>Publisher Page</span></a></div>
+      <p class="research-publication-entry__citation"><strong>Younghyun Lee</strong> and Nam-Kook Kim. 2019. <a href="https://doi.org/10.18109/jeus.2019..53.3" target="_blank" rel="noopener noreferrer">Divergent Paths of Integration in the Post-Multicultural Era: Interculturalism in Spain and Civic Integration in France.</a> <em>Journal of European Union Studies</em> 53: 3–48.</p>
     </div>
   </li>
 </ol>
@@ -40,15 +37,14 @@ My research examines how immigrants and minorities come to belong politically in
 <ol class="research-publications" reversed start="1">
   <li>
     <div class="research-publication-entry">
-      <p class="research-publication-entry__title"><span class="research-publication-entry__title-main">Linguistic Polarization in Minority Representation: Analyzing Parliamentary Speeches in Germany and the UK (1980-2021).</span> <span class="research-publication-entry__coauthor">(with Florencia Pineyrua, Christian Czymara, and Max Weber)</span></p>
-      <div class="research-publication-entry__meta">In <em>Computational Social Science of Social Cohesion and Polarization</em>. 2026. <a class="research-publication-entry__link" href="https://doi.org/10.1007/978-3-032-01373-6_7" target="_blank" rel="noopener noreferrer"><i class="fas fa-link" aria-hidden="true"></i><span>Publisher Page</span></a></div>
+      <p class="research-publication-entry__citation"><strong>Younghyun Lee</strong>, Florencia Piñeyrúa, Christian Czymara, and Max Weber. 2026. <a href="https://doi.org/10.1007/978-3-032-01373-6_7" target="_blank" rel="noopener noreferrer">Linguistic Polarization in Minority Representation: Analyzing Parliamentary Speeches in Germany and the UK (1980–2021).</a> In Lorenz, J., Keijzer, M., &amp; Bojanowski, M. (Eds.), <em>Computational Social Science of Social Cohesion and Polarization</em>. Springer.</p>
     </div>
   </li>
 </ol>
 
 ## Working Papers
 
-<ul class="research-working-papers">
+<ol class="research-working-papers">
   <li>
     <div class="research-entry">
       <div class="research-entry__titleline"><span class="research-entry__title"><span class="research-entry__title-main">Not All Contact Is Equal: Interaction with Natives and Immigrant Political Integration in Hostile Contexts</span> <span class="research-entry__coauthor">(Job Market Paper; Under Review)</span></span> <details class="research-entry__details research-entry__details--inline">
@@ -88,11 +84,11 @@ My research examines how immigrants and minorities come to belong politically in
       </details></div>
     </div>
   </li>
-</ul>
+</ol>
 
 ## Work in Progress
 
-<ul class="research-working-papers">
+<ol class="research-working-papers">
 
   <li>
     <div class="research-entry">
@@ -101,7 +97,7 @@ My research examines how immigrants and minorities come to belong politically in
         <p class="research-entry__abstract">This study examines the relationship between immigrants' economic integration and their sense of belonging in European host societies. Using the 2018 European Social Survey, I employ a three-step analytical approach to demonstrate the absence of a significant effect of economic integration on immigrants' sense of belonging.</p>
       </details></div>
       <ul class="research-entry__presented">
-        <li><em>Presented at <a href="/updates/2022-09-09-washington-illinois-student-exchange/">Washington-Illinois Student Exchange 2022</a>, <a href="/updates/2023-11-16-priec-at-unt/">PRIEC 2023</a>, <a href="/updates/2022-04-11-mpsa-annual-meeting/">MPSA 2022</a></em></li>
+        <li><em>Presented at <a href="/updates/2022-09-09-washington-illinois-student-exchange/">WISE 2022</a>, <a href="/updates/2023-11-16-priec-at-unt/">PRIEC 2023</a>, <a href="/updates/2022-04-11-mpsa-annual-meeting/">MPSA 2022</a></em></li>
       </ul>
     </div>
   </li>
@@ -128,4 +124,4 @@ My research examines how immigrants and minorities come to belong politically in
       <p class="research-entry__title"><span class="research-entry__title-main">Who Counts as Patriotic?</span> <span class="research-entry__coauthor">(with Cara Wong)</span></p>
     </div>
   </li>
-</ul>
+</ol>
