@@ -44,7 +44,7 @@ I have taught as an instructor of record and teaching assistant at the Universit
 * Mentor, Undergraduate Research Apprenticeship Program (2025-present)
 * Instructor, Political Science Math Camp for Incoming Ph.D. Students (2026)
 
-## Sample Syllabi
+## Course Syllabi
 
-* Introduction to Comparative Politics
-* Migration, Citizenship and Belonging
+* [PS 201: US Racial and Ethnic Politics](/files/ps201-syllabus.pdf)
+* [PS 385: Politics of the European Union](/files/ps385-syllabus.pdf)
