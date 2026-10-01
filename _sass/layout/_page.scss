@@ -109,7 +109,7 @@
 }
 
 .homepage-page .page__content p {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.5;
   text-align: left !important;
   text-justify: auto;
@@ -350,6 +350,16 @@
 .research-page .page__content li {
   text-align: left;
   text-justify: auto;
+}
+
+.research-page .page__content,
+.teaching-page .page__content {
+  > p,
+  > ol > li,
+  > ul > li,
+  > dl {
+    font-size: calc(0.9rem + 1px);
+  }
 }
 
 .teaching-page .page__content,
