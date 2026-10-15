@@ -57,6 +57,20 @@ My research examines how immigrants and minorities come to belong politically in
       </ul>
     </div>
   </li>
+
+
+  <li>
+    <div class="research-entry">
+      <div class="research-entry__titleline"><span class="research-entry__title"><span class="research-entry__title-main">Does Contact with Natives Make Immigrants Feel Politically Integrated? In-Depgh Interviews and an AI-Confederate Experiment in Germany and Belgium </span></span> <details class="research-entry__details research-entry__details--inline">
+        <summary class="research-entry__summary"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Abstract</span></summary>
+        <p class="research-entry__abstract">Immigrants interact with members of the host society every day, but not all  interactions make them feel like members of the same political community. This article argues that the political consequences of intergroup contact depend on whether natives merely interact with immigrants or recognize them as individuals and equal participants. I develop this argument from 35 in-depth interviews with Syrian and Turkish immigrants in Belgium and Germany. Interviewees distinguish recognition-based contact from interactions that are polite and conflict-free but leave the boundary between immigrant and native intact. I then translate this distinction into a chat-based survey experiment in which first-generation non-EU immigrants complete a cooperative task alone or with an AI-scripted native partner whose interaction is either neutral or recognition-based. A first study with 144 immigrants in Germany shows that the experimental conditions produce different conversational dynamics while holding the task and amount of interaction largely constant. The clearest political response concerns shared membership: feeling included in the ``we'' when Germans talk about society increases from the control to the neutral to the positive-contact condition. These findings shift contact theory from asking primarily whether interaction reduces prejudice toward outgroups to examining how interactions with majorities change minorities’ understanding of their own standing in the political community.</p>
+      </details></div>
+      <ul class="research-entry__presented">
+        <li><em>Presented at <a href="/updates/2022-04-11-mpsa-annual-meeting/">APSA2026</a></em></li>
+      </ul>
+    </div>
+  </li>
+
   <li>
     <div class="research-entry">
       <div class="research-entry__titleline"><span class="research-entry__title"><span class="research-entry__title-main">Cross-Ethnic Social Interactions and Multilevel Belonging Among First-Generation Immigrants in Quebec</span> <span class="research-entry__coauthor">(with Antoine Bilodeau)</span></span> <details class="research-entry__details research-entry__details--inline">
