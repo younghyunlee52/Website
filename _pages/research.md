@@ -121,7 +121,7 @@ My research examines how immigrants and minorities come to belong politically in
   </li>
   <li>
     <div class="research-entry">
-      <p class="research-entry__title"><span class="research-entry__title-main">Who Counts as Patriotic? Patriotism in the \textit{New York Times}, 1980--2025 </span> <span class="research-entry__coauthor">(with Cara Wong)</span></p>
+      <p class="research-entry__title"><span class="research-entry__title-main">Who Counts as Patriotic? Patriotism in the New York Times, 1980--2025 </span> <span class="research-entry__coauthor">(with Cara Wong)</span></p>
     </div>
   </li>
 </ol>
