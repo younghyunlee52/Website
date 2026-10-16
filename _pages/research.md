@@ -92,6 +92,18 @@ My research examines how immigrants and minorities come to belong politically in
 
   <li>
     <div class="research-entry">
+      <p class="research-entry__title"><span class="research-entry__title-main">Contact Without Confederates: AI-Mediated Interaction as an Experimental Method</span></p>
+    </div>
+  </li>
+
+  <li>
+    <div class="research-entry">
+      <p class="research-entry__title"><span class="research-entry__title-main">The Importance of Success in Intergroup Contact</span> <span class="research-entry__coauthor">(with Cara Wong)</span></p>
+    </div>
+  </li>
+
+  <li>
+    <div class="research-entry">
       <div class="research-entry__titleline"><span class="research-entry__title"><span class="research-entry__title-main">Well-Integrated Immigrants Without a Sense of Belonging? Revisiting Integration Paradox and Successful Integration in Western Europe</span></span> <details class="research-entry__details research-entry__details--inline">
         <summary class="research-entry__summary"><i class="fas fa-file-alt" aria-hidden="true"></i><span>Abstract</span></summary>
         <p class="research-entry__abstract">This study examines the relationship between immigrants' economic integration and their sense of belonging in European host societies. Using the 2018 European Social Survey, I employ a three-step analytical approach to demonstrate the absence of a significant effect of economic integration on immigrants' sense of belonging.</p>
